@@ -1,0 +1,3 @@
+[00:00:00.50 - 00:00:03.80] Welcome to the Anonymous Self-Hosted AI Toolbox suite.
+[00:00:04.10 - 00:00:08.20] All audio processing is executed completely on-premise without external cloud APIs.
+[00:00:08.50 - 00:00:12.40] Accurate speech recognition with synchronized timestamp markers and multilingual support.

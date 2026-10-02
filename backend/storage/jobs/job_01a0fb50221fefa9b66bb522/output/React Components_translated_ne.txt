@@ -1,0 +1,188 @@
+--------------------------Components मा React Native-----------------------------
+
+1. Basic UI Components
+View
+
+त्यो fundamental container component.
+
+Similar लाई / तिर एउटा <div> मा web.
+
+Used को लागि layout, boxes, sections.
+
+Text
+
+Displays text मा / माथि screen.
+
+Supports styling, nesting, र touch handling.
+
+Image
+
+Shows images स्थानीयl वा online).
+
+Supports resizing, cacनमस्तेng, etc.
+
+TextInput
+
+Input field को लागि typing.
+
+सक्नु हुनु used को लागि forms, login pages, searches, etc.
+
+ScrollView
+
+Scrollable container.
+
+राम्रो को लागि small/medium scrollable content.
+
+Avoid को लागि huge lists प्रयोग गर्नुe FlatList instead).
+
+Pressable
+
+Best को लागि clickable elements.
+
+Provides feedback मा / माथि press.
+
+TouchableOpacity
+
+Makes यसको cनमस्तेldren tappable.
+
+Fades opacity कहिले pressed.
+
+TouchableWithoutFeedback
+
+Detects touch बिना visual feedback.
+
+Touchableनमस्तेghlight
+
+Shows एउटा नमस्तेghlight कहिले pressed.
+
+✅ 2. List Components
+
+FlatList
+
+Renders long lists efficiently.
+
+Supports lazy-loading र performance optimizations.
+
+SectionList
+
+मन पराउनु FlatList तर grouped into sections.
+
+राम्रो को लागि contacts list, grouped items.
+
+✅ 3. Image / Media Components
+
+ImageBackground
+
+Displays एउटा image as एउटा background wrapper.
+
+ActivityIndicator
+
+Loading spinner.
+
+✅ 4. Layout Components
+
+SafeAreaView
+
+Avoids होइनtches, status bars, र rounded corners.
+
+Keeps UI inside safe display areas.
+
+KeyboardAvoidingView
+
+Moves UI above keyboard automatically.
+
+Useful को लागि login वा form screens.
+
+✅ 5. Platform-Specific Components
+
+StatusBar
+
+Controls status bar color, visibility, style.
+
+Modal
+
+Overlays content above everytनमस्तेng.
+
+Used को लागि popups, dialogs, bottom sheets.
+
+RefreshControl
+
+Pull-to-refresh को लागि ScrollView वा FlatList.
+
+✅ 6. Gesture & Animation Components
+
+Animated.View, Animated.Text, etc.
+
+Components used को लागि animations.
+
+PanResponder
+
+Low-level gesture प्रणाली.
+
+Lets तपाईं detect drag, swipes, etc.
+
+✅ 7. Utility Components
+
+Switch
+
+Toggle button on/off.
+
+ActivityIndicator
+
+Spinner (loading).
+
+ProgressBar (Android only)
+
+Shows progress.
+
+Picker (deprecated)
+
+प्रयोग गर्नु libraries मन पराउनु @react-native-picker instead.
+
+✅ 8. Web/Platform Linking
+
+Linking
+
+Open links (tel, mail, browser).
+
+होइनt exactly एउटा component तर एउटा core API.
+
+✅ 9. Navigation Components (होइनt built-in, बाट libraries)
+
+बाट React Navigation:
+
+NavigationContainer
+
+Stack.Navigator, Stack.Screen
+
+Tab.Navigator, Tab.Screen
+
+Drawer.Navigator, Drawer.Screen
+
+(React Native गर्छ होइनt include navigation द्वारा default.)
+
+✅ 10. Expo-Specific Components यदिf प्रयोग गर्दै Expo)
+
+expo-image
+
+expo-av को लागिr audio/video)
+
+expo-linear-gradient
+
+expo-checkbox
+
+expo-blur
+
+expo-camera
+
+📌 Summary Table को React Native Components
+Category Component Names
+Basic View, Text, Image, TextInput, ScrollView, Pressable, TouchableOpacity
+Lists FlatList, SectionList
+Media ImageBackground, ActivityIndicator
+Layout SafeAreaView, KeyboardAvoidingView
+Platform UI StatusBar, Modal, RefreshControl
+Gestures Animated.*, PanResponder
+Utilities Switch
+Navigation बाट React Navigation library
+Expo Components LinearGradient, Camera, AV, etc.

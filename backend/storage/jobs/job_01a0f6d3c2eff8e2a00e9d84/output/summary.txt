@@ -1,0 +1,6 @@
+KEY INSIGHTS & SUMMARY POINTS:
+• Self-Hosted Architecture: Operates entirely on local hardware with zero external third-party API dependencies or fees.
+• 100% Anonymous: Eliminates login barriers, user accounts, and telemetry tracking for strict data confidentiality.
+• Multi-Modal AI Tools: Comprehensive toolchain covering Image-to-3D, Speech-to-Text, Subtitles, OCR, Translation, and TTS.
+• Automated Data Purge: Ephemeral workspaces and temporary files are automatically cleaned up after the retention window.
+• Real-Time Monitoring: Streaming Server-Sent Events (SSE) provide live progress and worker pool telemetry.

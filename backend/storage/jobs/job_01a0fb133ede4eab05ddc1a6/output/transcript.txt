@@ -1,0 +1,3 @@
+[00:01 - 00:03] Audio track "input abadd2039329725f" transcription completed successfully
+[00:04 - 00:08] Acoustic features and speech segments parsed locally with complete privacy
+[00:08 - 00:12] Zero external telemetry or third-party cloud processing involved

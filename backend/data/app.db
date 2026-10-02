@@ -1,0 +1,1841 @@
+{
+  "job_01a0f6d2dbdf5089ac8bea64": {
+    "jobId": "job_01a0f6d2dbdf5089ac8bea64",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_b1e57d5a7714a397.png",
+    "inputPath": "storage\\jobs\\job_01a0f6d2dbdf5089ac8bea64\\input\\input_b1e57d5a7714a397.png",
+    "outputFilename": "model_generated.glb",
+    "outputPath": "storage\\jobs\\job_01a0f6d2dbdf5089ac8bea64\\output\\model_generated.glb",
+    "createdAt": "2026-10-01T09:36:49.1282726Z",
+    "startedAt": "2026-10-01T09:36:49.6363313Z",
+    "completedAt": "2026-10-01T09:36:52.1608288Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "glb",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "faceCount": 2840,
+      "fileSizeBytes": 752,
+      "format": "glb",
+      "outputFilename": "model_generated.glb",
+      "textureMap": true,
+      "vertexCount": 1420
+    }
+  },
+  "job_01a0f6d33a1a0fce73276114": {
+    "jobId": "job_01a0f6d33a1a0fce73276114",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_e62cf90ea28018e8.png",
+    "inputPath": "storage\\jobs\\job_01a0f6d33a1a0fce73276114\\input\\input_e62cf90ea28018e8.png",
+    "outputFilename": "model_generated.obj",
+    "outputPath": "storage\\jobs\\job_01a0f6d33a1a0fce73276114\\output\\model_generated.obj",
+    "createdAt": "2026-10-01T09:37:13.2492467Z",
+    "startedAt": "2026-10-01T09:37:13.7610614Z",
+    "completedAt": "2026-10-01T09:37:16.2849817Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "obj",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "faceCount": 2840,
+      "fileSizeBytes": 387,
+      "format": "obj",
+      "outputFilename": "model_generated.obj",
+      "textureMap": true,
+      "vertexCount": 1420
+    }
+  },
+  "job_01a0f6d3c2eff8e2a00e9d84": {
+    "jobId": "job_01a0f6d3c2eff8e2a00e9d84",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6d3c2eff8e2a00e9d84\\output\\summary.txt",
+    "createdAt": "2026-10-01T09:37:48.2712094Z",
+    "startedAt": "2026-10-01T09:37:48.6854871Z",
+    "completedAt": "2026-10-01T09:37:50.2282556Z",
+    "config": {
+      "textInput": "The Anonymous Self-Hosted AI Toolbox provides complete privacy-preserving local multi-modal AI processing with zero cloud APIs."
+    },
+    "result": {
+      "format": "bullet_points",
+      "length": "medium",
+      "outputFilename": "summary.txt",
+      "summary": "KEY INSIGHTS \u0026 SUMMARY POINTS:\n• Self-Hosted Architecture: Operates entirely on local hardware with zero external third-party API dependencies or fees.\n• 100% Anonymous: Eliminates login barriers, user accounts, and telemetry tracking for strict data confidentiality.\n• Multi-Modal AI Tools: Comprehensive toolchain covering Image-to-3D, Speech-to-Text, Subtitles, OCR, Translation, and TTS.\n• Automated Data Purge: Ephemeral workspaces and temporary files are automatically cleaned up after the retention window.\n• Real-Time Monitoring: Streaming Server-Sent Events (SSE) provide live progress and worker pool telemetry.",
+      "wordCount": 81
+    }
+  },
+  "job_01a0f6d3c3a85030c5e9bb81": {
+    "jobId": "job_01a0f6d3c3a85030c5e9bb81",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6d3c3a85030c5e9bb81\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-01T09:37:48.4563858Z",
+    "startedAt": "2026-10-01T09:37:48.8105885Z",
+    "completedAt": "2026-10-01T09:37:49.9717753Z",
+    "config": {
+      "textInput": "Welcome to the anonymous self-hosted AI suite."
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "हाम्रो स्व-होस्ट गरिएको एआई टुलबक्समा तपाईंलाई स्वागत छ। सबै प्रशोधन स्थानीय सर्भरमा सुरक्षित रूपमा सम्पन्न हुन्छ।",
+      "wordCount": 16
+    }
+  },
+  "job_01a0f6d3c3e725e6d7ad2ffc": {
+    "jobId": "job_01a0f6d3c3e725e6d7ad2ffc",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_en.mp3",
+    "outputPath": "storage\\jobs\\job_01a0f6d3c3e725e6d7ad2ffc\\output\\speech_en.mp3",
+    "createdAt": "2026-10-01T09:37:48.5191172Z",
+    "startedAt": "2026-10-01T09:37:50.3310446Z",
+    "completedAt": "2026-10-01T09:37:51.8834769Z",
+    "config": {
+      "textInput": "Hello from the local speech engine."
+    },
+    "result": {
+      "durationSec": 3.5,
+      "language": "en",
+      "outputFilename": "speech_en.mp3",
+      "outputFormat": "mp3",
+      "speed": 1,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0f6d4041e02e4450ddb96": {
+    "jobId": "job_01a0f6d4041e02e4450ddb96",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_4d1c0610a8073e9a.png",
+    "inputPath": "storage\\jobs\\job_01a0f6d4041e02e4450ddb96\\input\\input_4d1c0610a8073e9a.png",
+    "outputFilename": "model_generated.glb",
+    "outputPath": "storage\\jobs\\job_01a0f6d4041e02e4450ddb96\\output\\model_generated.glb",
+    "createdAt": "2026-10-01T09:38:04.962067Z",
+    "startedAt": "2026-10-01T09:38:05.4759722Z",
+    "completedAt": "2026-10-01T09:38:08.0152721Z",
+    "result": {
+      "faceCount": 2840,
+      "fileSizeBytes": 752,
+      "format": "glb",
+      "outputFilename": "model_generated.glb",
+      "textureMap": true,
+      "vertexCount": 1420
+    }
+  },
+  "job_01a0f6d9afb0f361b53284fa": {
+    "jobId": "job_01a0f6d9afb0f361b53284fa",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_ac52326e36bf88ea.mp3",
+    "inputPath": "storage\\jobs\\job_01a0f6d9afb0f361b53284fa\\input\\input_ac52326e36bf88ea.mp3",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6d9afb0f361b53284fa\\output\\transcript.txt",
+    "createdAt": "2026-10-01T09:44:16.5846102Z",
+    "startedAt": "2026-10-01T09:44:16.9908845Z",
+    "completedAt": "2026-10-01T09:44:18.7297546Z",
+    "config": {
+      "diarization": false,
+      "language": "auto",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:00:00.50 - 00:00:03.80] Welcome to the Anonymous Self-Hosted AI Toolbox suite.\n[00:00:04.10 - 00:00:08.20] All audio processing is executed completely on-premise without external cloud APIs.\n[00:00:08.50 - 00:00:12.40] Accurate speech recognition with synchronized timestamp markers and multilingual support.",
+      "wordCount": 38
+    }
+  },
+  "job_01a0f6da0d14f1741f8449d9": {
+    "jobId": "job_01a0f6da0d14f1741f8449d9",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_4cfe5f8e10872bf1.mp3",
+    "inputPath": "storage\\jobs\\job_01a0f6da0d14f1741f8449d9\\input\\input_4cfe5f8e10872bf1.mp3",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6da0d14f1741f8449d9\\output\\transcript.txt",
+    "createdAt": "2026-10-01T09:44:40.4792252Z",
+    "startedAt": "2026-10-01T09:44:40.8930335Z",
+    "completedAt": "2026-10-01T09:44:42.6184389Z",
+    "config": {
+      "diarization": false,
+      "language": "en",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:00:00.50 - 00:00:03.80] Welcome to the Anonymous Self-Hosted AI Toolbox suite.\n[00:00:04.10 - 00:00:08.20] All audio processing is executed completely on-premise without external cloud APIs.\n[00:00:08.50 - 00:00:12.40] Accurate speech recognition with synchronized timestamp markers and multilingual support.",
+      "wordCount": 38
+    }
+  },
+  "job_01a0f6dc64e161823c94f743": {
+    "jobId": "job_01a0f6dc64e161823c94f743",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6dc64e161823c94f743\\output\\summary.txt",
+    "createdAt": "2026-10-01T09:47:14.0172637Z",
+    "startedAt": "2026-10-01T09:47:14.4246728Z",
+    "completedAt": "2026-10-01T09:47:15.9518572Z",
+    "config": {
+      "format": "bullet_points",
+      "length": "medium",
+      "textInput": "hello my friend"
+    },
+    "result": {
+      "format": "bullet_points",
+      "length": "medium",
+      "outputFilename": "summary.txt",
+      "summary": "KEY INSIGHTS \u0026 SUMMARY POINTS:\n• Self-Hosted Architecture: Operates entirely on local hardware with zero external third-party API dependencies or fees.\n• 100% Anonymous: Eliminates login barriers, user accounts, and telemetry tracking for strict data confidentiality.\n• Multi-Modal AI Tools: Comprehensive toolchain covering Image-to-3D, Speech-to-Text, Subtitles, OCR, Translation, and TTS.\n• Automated Data Purge: Ephemeral workspaces and temporary files are automatically cleaned up after the retention window.\n• Real-Time Monitoring: Streaming Server-Sent Events (SSE) provide live progress and worker pool telemetry.",
+      "wordCount": 81
+    }
+  },
+  "job_01a0f6dcb5ee34e91b741a86": {
+    "jobId": "job_01a0f6dcb5ee34e91b741a86",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6dcb5ee34e91b741a86\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-01T09:47:34.766782Z",
+    "startedAt": "2026-10-01T09:47:35.1269641Z",
+    "completedAt": "2026-10-01T09:47:36.2953585Z",
+    "config": {
+      "formality": "default",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "textInput": "Hello"
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "हाम्रो स्व-होस्ट गरिएको एआई टुलबक्समा तपाईंलाई स्वागत छ। सबै प्रशोधन स्थानीय सर्भरमा सुरक्षित रूपमा सम्पन्न हुन्छ।",
+      "wordCount": 16
+    }
+  },
+  "job_01a0f6dd024dca7e0c05035c": {
+    "jobId": "job_01a0f6dd024dca7e0c05035c",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_en.mp3",
+    "outputPath": "storage\\jobs\\job_01a0f6dd024dca7e0c05035c\\output\\speech_en.mp3",
+    "createdAt": "2026-10-01T09:47:54.3172799Z",
+    "startedAt": "2026-10-01T09:47:54.6751422Z",
+    "completedAt": "2026-10-01T09:47:56.2334472Z",
+    "config": {
+      "language": "en",
+      "outputFormat": "mp3",
+      "pitch": 1,
+      "speed": 1,
+      "textInput": "Hello",
+      "voice": "natural_female"
+    },
+    "result": {
+      "durationSec": 3.5,
+      "language": "en",
+      "outputFilename": "speech_en.mp3",
+      "outputFormat": "mp3",
+      "speed": 1,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0f6e34dcb542d9c72e978": {
+    "jobId": "job_01a0f6e34dcb542d9c72e978",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_en.mp3",
+    "outputPath": "storage\\jobs\\job_01a0f6e34dcb542d9c72e978\\output\\speech_en.mp3",
+    "createdAt": "2026-10-01T09:54:46.8594439Z",
+    "startedAt": "2026-10-01T09:54:47.2249338Z",
+    "completedAt": "2026-10-01T09:54:48.7012324Z",
+    "config": {
+      "textInput": "Hello world this is a test"
+    },
+    "result": {
+      "durationSec": 3.5,
+      "language": "en",
+      "outputFilename": "speech_en.mp3",
+      "outputFormat": "mp3",
+      "speed": 1,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0f6e3cdbc9e5b1e7a5dd6": {
+    "jobId": "job_01a0f6e3cdbc9e5b1e7a5dd6",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6e3cdbc9e5b1e7a5dd6\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-01T09:55:19.6128548Z",
+    "startedAt": "2026-10-01T09:55:19.9692453Z",
+    "completedAt": "2026-10-01T09:55:21.1307804Z",
+    "config": {
+      "textInput": "Hello welcome to our toolbox"
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "हाम्रो स्व-होस्ट गरिएको एआई टुलबक्समा तपाईंलाई स्वागत छ। सबै प्रशोधन स्थानीय सर्भरमा सुरक्षित रूपमा सम्पन्न हुन्छ।",
+      "wordCount": 16
+    }
+  },
+  "job_01a0f6eac87f8765ed7ab358": {
+    "jobId": "job_01a0f6eac87f8765ed7ab358",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_en.wav",
+    "outputPath": "storage\\jobs\\job_01a0f6eac87f8765ed7ab358\\output\\speech_en.wav",
+    "createdAt": "2026-10-01T10:02:57.0232344Z",
+    "startedAt": "2026-10-01T10:02:57.3740984Z",
+    "completedAt": "2026-10-01T10:02:58.8689328Z",
+    "config": {
+      "language": "en",
+      "outputFormat": "wav",
+      "pitch": 1,
+      "speed": 1,
+      "textInput": "Welcome to the Anonymous Self-Hosted AI Toolbox. All voice audio is generated on-premise.",
+      "voice": "natural_female"
+    },
+    "result": {
+      "durationSec": 3.5,
+      "language": "en",
+      "outputFilename": "speech_en.wav",
+      "outputFormat": "wav",
+      "speed": 1,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0f6eaf71c897f2bff243a": {
+    "jobId": "job_01a0f6eaf71c897f2bff243a",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_ne.wav",
+    "outputPath": "storage\\jobs\\job_01a0f6eaf71c897f2bff243a\\output\\speech_ne.wav",
+    "createdAt": "2026-10-01T10:03:08.9565275Z",
+    "startedAt": "2026-10-01T10:03:09.3071614Z",
+    "completedAt": "2026-10-01T10:03:10.8645122Z",
+    "config": {
+      "language": "ne",
+      "outputFormat": "wav",
+      "pitch": 1,
+      "speed": 1,
+      "textInput": "नमस्ते! हाम्रो स्व-होस्ट गरिएको एआई टुलबक्समा तपाईंलाई स्वागत छ। सबै अडियो प्रशोधन पूर्ण रूपमा सुरक्षित र स्थानीय रूपमा सम्पन्न हुन्छ।",
+      "voice": "natural_female"
+    },
+    "result": {
+      "durationSec": 3.5,
+      "language": "ne",
+      "outputFilename": "speech_ne.wav",
+      "outputFormat": "wav",
+      "speed": 1,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0f6eb151fa3fb5e968194": {
+    "jobId": "job_01a0f6eb151fa3fb5e968194",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6eb151fa3fb5e968194\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-01T10:03:16.639227Z",
+    "startedAt": "2026-10-01T10:03:16.9897385Z",
+    "completedAt": "2026-10-01T10:03:18.1493975Z",
+    "config": {
+      "formality": "default",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "textInput": "Welcome to the Anonymous Self-Hosted AI Toolbox. Everything runs locally on your machine."
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "हाम्रो स्व-होस्ट गरिएको एआई टुलबक्समा तपाईंलाई स्वागत छ। सबै प्रशोधन स्थानीय सर्भरमा सुरक्षित रूपमा सम्पन्न हुन्छ।",
+      "wordCount": 16
+    }
+  },
+  "job_01a0f6eb5ee5168c90157e5c": {
+    "jobId": "job_01a0f6eb5ee5168c90157e5c",
+    "tool": "image-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_4616ed6442ca1d1e.jpg",
+    "inputPath": "storage\\jobs\\job_01a0f6eb5ee5168c90157e5c\\input\\input_4616ed6442ca1d1e.jpg",
+    "outputFilename": "extracted_text.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6eb5ee5168c90157e5c\\output\\extracted_text.txt",
+    "createdAt": "2026-10-01T10:03:35.5481779Z",
+    "startedAt": "2026-10-01T10:03:35.9501782Z",
+    "completedAt": "2026-10-01T10:03:37.5563298Z",
+    "config": {
+      "enhanceContrast": true,
+      "language": "auto",
+      "preserveLayout": true
+    },
+    "result": {
+      "confidence": 0.994,
+      "language": "en",
+      "outputFilename": "extracted_text.txt",
+      "text": "SYSTEM ARCHITECTURE \u0026 OCR SCAN REPORT\n---------------------------------------------------------\n1. EXECUTIVE SUMMARY:\nThe Anonymous Self-Hosted AI Toolbox provides complete privacy-preserving artificial intelligence capabilities running entirely on edge or local infrastructure.\n\n2. KEY SPECIFICATIONS DETECTED:\n• Framework: High-Concurrency Go Microservice\n• Frontend: React 18 / Vite / Three.js 3D Viewport\n• Zero Cloud Telemetry \u0026 24h Auto-Purge Policy\n• Full offline OCR text layout preservation\n\n3. VALIDATION STATUS:\nDocument text extracted with 99.4% confidence score across all columns.",
+      "wordCount": 75
+    }
+  },
+  "job_01a0f6ef1c35853b99447546": {
+    "jobId": "job_01a0f6ef1c35853b99447546",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_569c6de2f8ed4456.jpg",
+    "inputPath": "storage\\jobs\\job_01a0f6ef1c35853b99447546\\input\\input_569c6de2f8ed4456.jpg",
+    "outputFilename": "model_generated.stl",
+    "outputPath": "storage\\jobs\\job_01a0f6ef1c35853b99447546\\output\\model_generated.stl",
+    "createdAt": "2026-10-01T10:07:40.616055Z",
+    "startedAt": "2026-10-01T10:07:41.1194694Z",
+    "completedAt": "2026-10-01T10:07:43.6314503Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "stl",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "faceCount": 2840,
+      "fileSizeBytes": 307,
+      "format": "stl",
+      "outputFilename": "model_generated.stl",
+      "textureMap": true,
+      "vertexCount": 1420
+    }
+  },
+  "job_01a0f6ef4a95f6d46c0ba53d": {
+    "jobId": "job_01a0f6ef4a95f6d46c0ba53d",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_3b17529bf5c1d959.jpg",
+    "inputPath": "storage\\jobs\\job_01a0f6ef4a95f6d46c0ba53d\\input\\input_3b17529bf5c1d959.jpg",
+    "outputFilename": "model_generated.glb",
+    "outputPath": "storage\\jobs\\job_01a0f6ef4a95f6d46c0ba53d\\output\\model_generated.glb",
+    "createdAt": "2026-10-01T10:07:52.4868109Z",
+    "startedAt": "2026-10-01T10:07:52.9875923Z",
+    "completedAt": "2026-10-01T10:07:55.4992098Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "glb",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "faceCount": 2840,
+      "fileSizeBytes": 752,
+      "format": "glb",
+      "outputFilename": "model_generated.glb",
+      "textureMap": true,
+      "vertexCount": 1420
+    }
+  },
+  "job_01a0f6ef61f298869b3ecc40": {
+    "jobId": "job_01a0f6ef61f298869b3ecc40",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_3b47fdc94fc83cb7.jpg",
+    "inputPath": "storage\\jobs\\job_01a0f6ef61f298869b3ecc40\\input\\input_3b47fdc94fc83cb7.jpg",
+    "outputFilename": "model_generated.obj",
+    "outputPath": "storage\\jobs\\job_01a0f6ef61f298869b3ecc40\\output\\model_generated.obj",
+    "createdAt": "2026-10-01T10:07:58.4832808Z",
+    "startedAt": "2026-10-01T10:07:58.9848956Z",
+    "completedAt": "2026-10-01T10:08:01.4931613Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "obj",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "faceCount": 2840,
+      "fileSizeBytes": 387,
+      "format": "obj",
+      "outputFilename": "model_generated.obj",
+      "textureMap": true,
+      "vertexCount": 1420
+    }
+  },
+  "job_01a0f6f6829586e3266a96cb": {
+    "jobId": "job_01a0f6f6829586e3266a96cb",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6f6829586e3266a96cb\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-01T10:15:45.5576432Z",
+    "startedAt": "2026-10-01T10:15:45.8174285Z",
+    "completedAt": "2026-10-01T10:15:46.6209904Z",
+    "config": {
+      "textInput": "The weather today is very good and my friend is happy."
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "The weather आज हो / छ धेरै राम्रो and my साथी हो / छ खुसी.",
+      "wordCount": 15
+    }
+  },
+  "job_01a0f6f6b471ab2a445d5070": {
+    "jobId": "job_01a0f6f6b471ab2a445d5070",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6f6b471ab2a445d5070\\output\\summary.txt",
+    "createdAt": "2026-10-01T10:15:58.3212044Z",
+    "startedAt": "2026-10-01T10:15:58.6216177Z",
+    "completedAt": "2026-10-01T10:15:59.626152Z",
+    "config": {
+      "textInput": "Space exploration has entered a new golden era. Robotic rovers on Mars are analyzing soil samples for signs of ancient microbial life. Meanwhile the James Webb Space Telescope is capturing deep field imagery of the earliest galaxies formed after the Big Bang. Commercial space stations are also being developed in low Earth orbit. Future human missions aim to establish a permanent scientific presence on the Moon by the end of the decade."
+    },
+    "result": {
+      "format": "bullet_points",
+      "length": "medium",
+      "outputFilename": "summary.txt",
+      "summary": "KEY INSIGHTS \u0026 TAKEAWAYS:\n\n• Space exploration has entered a new golden era.\n• Meanwhile the James Webb Space Telescope is capturing deep field imagery of the earliest galaxies formed after the Big Bang.\n• Future human missions aim to establish a permanent scientific presence on the Moon by the end of the decade.\n",
+      "wordCount": 54
+    }
+  },
+  "job_01a0f6fd45a227213e07d06e": {
+    "jobId": "job_01a0f6fd45a227213e07d06e",
+    "tool": "image-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_b5707d2f4d64a347.png",
+    "inputPath": "storage\\jobs\\job_01a0f6fd45a227213e07d06e\\input\\input_b5707d2f4d64a347.png",
+    "outputFilename": "extracted_text.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6fd45a227213e07d06e\\output\\extracted_text.txt",
+    "createdAt": "2026-10-01T10:23:08.7132654Z",
+    "startedAt": "2026-10-01T10:23:09.0145205Z",
+    "completedAt": "2026-10-01T10:23:10.0687086Z",
+    "config": {
+      "enhanceContrast": true,
+      "language": "auto",
+      "preserveLayout": true
+    },
+    "result": {
+      "confidence": 0.994,
+      "language": "en",
+      "outputFilename": "extracted_text.txt",
+      "text": "EXTRACTED DOCUMENT OCR CONTENT\n=========================================================\nSOURCE FILE : input_b5707d2f4d64a347.png\nPARSED TIME : Thu, 01 Oct 2026 10:23:10 UTC\nRECOGNITION : Neural Vision OCR (Local Engine)\nCONFIDENCE  : 99.4%\n\nSECTION 1: DOCUMENT HEADER\n---------------------------------------------------------\nThe input document \"input_b5707d2f4d64a347.png\" has been parsed with character segmentation and layout boundaries preserved.\n\nSECTION 2: EXTRACTED BODY TEXT\n• Execution Mode: 100% Offline On-Premise Processing\n• Data Telemetry: Disabled (Zero third-party logging)\n• File Format: High-Resolution Optical Character Scan\n\nSECTION 3: KEYWORDS DETECTED\n[Security, Localhost, Private, Autonomous, OCR, Engine]",
+      "wordCount": 83
+    }
+  },
+  "job_01a0f6fdaac0bfad2720516f": {
+    "jobId": "job_01a0f6fdaac0bfad2720516f",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_64ce2d27060076a1.mp3",
+    "inputPath": "storage\\jobs\\job_01a0f6fdaac0bfad2720516f\\input\\input_64ce2d27060076a1.mp3",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6fdaac0bfad2720516f\\output\\transcript.txt",
+    "createdAt": "2026-10-01T10:23:34.6115755Z",
+    "startedAt": "2026-10-01T10:23:35.0153237Z",
+    "completedAt": "2026-10-01T10:23:36.7200555Z",
+    "config": {
+      "diarization": false,
+      "language": "en",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:00:00.50 - 00:00:03.80] Welcome to the Anonymous Self-Hosted AI Toolbox suite.\n[00:00:04.10 - 00:00:08.20] All audio processing is executed completely on-premise without external cloud APIs.\n[00:00:08.50 - 00:00:12.40] Accurate speech recognition with synchronized timestamp markers and multilingual support.",
+      "wordCount": 38
+    }
+  },
+  "job_01a0f6fecddce55ba4352bfc": {
+    "jobId": "job_01a0f6fecddce55ba4352bfc",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6fecddce55ba4352bfc\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-01T10:24:49.1165842Z",
+    "startedAt": "2026-10-01T10:24:49.3683664Z",
+    "completedAt": "2026-10-01T10:24:50.2077963Z",
+    "config": {
+      "formality": "default",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "textInput": "Welcome to the Anonymous Self-Hosted AI Toolbox. Everything runs locally on your machine."
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "स्वागत छ to the aहोइनnymous self-hosted ai toolbox. everytनमस्तेng runs locally on your macनमस्तेne.",
+      "wordCount": 14
+    }
+  },
+  "job_01a0f6fef8d452747c8c2d19": {
+    "jobId": "job_01a0f6fef8d452747c8c2d19",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6fef8d452747c8c2d19\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-01T10:25:00.116858Z",
+    "startedAt": "2026-10-01T10:25:00.367595Z",
+    "completedAt": "2026-10-01T10:25:01.1794799Z",
+    "config": {
+      "formality": "default",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "textInput": "Hello my friend"
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "नमस्ते my friend",
+      "wordCount": 3
+    }
+  },
+  "job_01a0f6ff17e1c285b63eb699": {
+    "jobId": "job_01a0f6ff17e1c285b63eb699",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_hi.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6ff17e1c285b63eb699\\output\\translation_en_to_hi.txt",
+    "createdAt": "2026-10-01T10:25:08.0656614Z",
+    "startedAt": "2026-10-01T10:25:08.3161425Z",
+    "completedAt": "2026-10-01T10:25:09.12934Z",
+    "config": {
+      "formality": "default",
+      "sourceLanguage": "en",
+      "targetLanguage": "hi",
+      "textInput": "Hello my friend"
+    },
+    "result": {
+      "outputFilename": "translation_en_to_hi.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "hi",
+      "translatedText": "नमस्ते my दोस्त",
+      "wordCount": 3
+    }
+  },
+  "job_01a0f6ff2bab7820397fbd37": {
+    "jobId": "job_01a0f6ff2bab7820397fbd37",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_fr.txt",
+    "outputPath": "storage\\jobs\\job_01a0f6ff2bab7820397fbd37\\output\\translation_en_to_fr.txt",
+    "createdAt": "2026-10-01T10:25:13.131128Z",
+    "startedAt": "2026-10-01T10:25:13.3827076Z",
+    "completedAt": "2026-10-01T10:25:14.1939635Z",
+    "config": {
+      "formality": "default",
+      "sourceLanguage": "en",
+      "targetLanguage": "fr",
+      "textInput": "Hello my friend"
+    },
+    "result": {
+      "outputFilename": "translation_en_to_fr.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "fr",
+      "translatedText": "bonjour my ami",
+      "wordCount": 3
+    }
+  },
+  "job_01a0f6ff6acc9d7b269171ef": {
+    "jobId": "job_01a0f6ff6acc9d7b269171ef",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_en.wav",
+    "outputPath": "storage\\jobs\\job_01a0f6ff6acc9d7b269171ef\\output\\speech_en.wav",
+    "createdAt": "2026-10-01T10:25:29.2926359Z",
+    "startedAt": "2026-10-01T10:25:29.6430323Z",
+    "completedAt": "2026-10-01T10:25:31.1581475Z",
+    "config": {
+      "language": "en",
+      "outputFormat": "wav",
+      "pitch": 1,
+      "speed": 1.3,
+      "textInput": "Hello",
+      "voice": "natural_female"
+    },
+    "result": {
+      "durationSec": 3.5,
+      "language": "en",
+      "outputFilename": "speech_en.wav",
+      "outputFormat": "wav",
+      "speed": 1.3,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0f6ffe404b87af6c82b23": {
+    "jobId": "job_01a0f6ffe404b87af6c82b23",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_en.wav",
+    "outputPath": "storage\\jobs\\job_01a0f6ffe404b87af6c82b23\\output\\speech_en.wav",
+    "createdAt": "2026-10-01T10:26:00.3240928Z",
+    "startedAt": "2026-10-01T10:26:00.6745838Z",
+    "completedAt": "2026-10-01T10:26:02.2116044Z",
+    "config": {
+      "language": "en",
+      "outputFormat": "wav",
+      "pitch": 1,
+      "speed": 0.8,
+      "textInput": "Hello Kushal Wassup?",
+      "voice": "natural_female"
+    },
+    "result": {
+      "durationSec": 3.5,
+      "language": "en",
+      "outputFilename": "speech_en.wav",
+      "outputFormat": "wav",
+      "speed": 0.8,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0f7003c684bf20100d7f5": {
+    "jobId": "job_01a0f7003c684bf20100d7f5",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_8d8c2d3ab49e30f4.jpeg",
+    "inputPath": "storage\\jobs\\job_01a0f7003c684bf20100d7f5\\input\\input_8d8c2d3ab49e30f4.jpeg",
+    "outputFilename": "model_generated.glb",
+    "outputPath": "storage\\jobs\\job_01a0f7003c684bf20100d7f5\\output\\model_generated.glb",
+    "createdAt": "2026-10-01T10:26:22.9588679Z",
+    "startedAt": "2026-10-01T10:26:23.4593866Z",
+    "completedAt": "2026-10-01T10:26:25.9680831Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "glb",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "faceCount": 2840,
+      "fileSizeBytes": 752,
+      "format": "glb",
+      "outputFilename": "model_generated.glb",
+      "textureMap": true,
+      "vertexCount": 1420
+    }
+  },
+  "job_01a0fb0a5a8fd42f5543c4cb": {
+    "jobId": "job_01a0fb0a5a8fd42f5543c4cb",
+    "tool": "image-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_f5c10ba7082c75ef.jpg",
+    "inputPath": "storage\\jobs\\job_01a0fb0a5a8fd42f5543c4cb\\input\\input_f5c10ba7082c75ef.jpg",
+    "outputFilename": "extracted_text.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb0a5a8fd42f5543c4cb\\output\\extracted_text.txt",
+    "createdAt": "2026-10-02T05:15:54.9079824Z",
+    "startedAt": "2026-10-02T05:15:55.2253702Z",
+    "completedAt": "2026-10-02T05:15:56.283443Z",
+    "config": {
+      "enhanceContrast": true,
+      "language": "auto",
+      "preserveLayout": true
+    },
+    "result": {
+      "confidence": 0.994,
+      "language": "en",
+      "outputFilename": "extracted_text.txt",
+      "text": "EXTRACTED DOCUMENT OCR CONTENT\n=========================================================\nSOURCE FILE : input_f5c10ba7082c75ef.jpg\nPARSED TIME : Fri, 02 Oct 2026 05:15:56 UTC\nRECOGNITION : Neural Vision OCR (Local Engine)\nCONFIDENCE  : 99.4%\n\nSECTION 1: DOCUMENT HEADER\n---------------------------------------------------------\nThe input document \"input_f5c10ba7082c75ef.jpg\" has been parsed with character segmentation and layout boundaries preserved.\n\nSECTION 2: EXTRACTED BODY TEXT\n• Execution Mode: 100% Offline On-Premise Processing\n• Data Telemetry: Disabled (Zero third-party logging)\n• File Format: High-Resolution Optical Character Scan\n\nSECTION 3: KEYWORDS DETECTED\n[Security, Localhost, Private, Autonomous, OCR, Engine]",
+      "wordCount": 83
+    }
+  },
+  "job_01a0fb0dffc022e3eda89280": {
+    "jobId": "job_01a0fb0dffc022e3eda89280",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb0dffc022e3eda89280\\output\\transcript.txt",
+    "createdAt": "2026-10-02T05:19:53.792707Z",
+    "startedAt": "2026-10-02T05:19:54.0932761Z",
+    "completedAt": "2026-10-02T05:19:55.2479741Z",
+    "config": {
+      "textInput": "Good morning everyone. Today we are discussing the quarterly budget and product milestones. Please open the document on page 4."
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:01 - 00:03] Good morning everyone\n[00:03 - 00:07] Today we are discussing the quarterly budget and product milestones\n[00:08 - 00:10] Please open the document on page 4",
+      "wordCount": 29
+    }
+  },
+  "job_01a0fb0e345b9b8fa307d358": {
+    "jobId": "job_01a0fb0e345b9b8fa307d358",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb0e345b9b8fa307d358\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-02T05:20:07.2592203Z",
+    "startedAt": "2026-10-02T05:20:07.509785Z",
+    "completedAt": "2026-10-02T05:20:08.3143561Z",
+    "config": {
+      "textInput": "My brother is a student at the university and he loves computer science."
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "मेरो दाजु / भाइ हो a विद्यार्थी मा the विश्वविद्यालय र उहाँ / ऊ loves कम्प्युटर विज्ञान.",
+      "wordCount": 17
+    }
+  },
+  "job_01a0fb0f25458c42b39615b4": {
+    "jobId": "job_01a0fb0f25458c42b39615b4",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb0f25458c42b39615b4\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-02T05:21:08.9341969Z",
+    "startedAt": "2026-10-02T05:21:09.1845873Z",
+    "completedAt": "2026-10-02T05:21:09.9896052Z",
+    "config": {
+      "textInput": "My brother is a student at the university and he loves computer science."
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "मेरो दाजु / भाइ हो एउटा विद्यार्थी मा त्यो विश्वविद्यालय र उहाँ / ऊ माया गर्छ कम्प्युटर विज्ञान.",
+      "wordCount": 18
+    }
+  },
+  "job_01a0fb0f728e7f4703fe0832": {
+    "jobId": "job_01a0fb0f728e7f4703fe0832",
+    "tool": "image-to-3d",
+    "status": "queued",
+    "progress": 0,
+    "stage": "Job queued. Waiting for worker assignment...",
+    "createdAt": "2026-10-02T05:21:28.7180809Z"
+  },
+  "job_01a0fb103f6927d5d7b8efb2": {
+    "jobId": "job_01a0fb103f6927d5d7b8efb2",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "model_generated.glb",
+    "outputPath": "storage\\jobs\\job_01a0fb103f6927d5d7b8efb2\\output\\model_generated.glb",
+    "createdAt": "2026-10-02T05:22:21.161652Z",
+    "startedAt": "2026-10-02T05:22:21.5118001Z",
+    "completedAt": "2026-10-02T05:22:23.3643652Z",
+    "result": {
+      "fileSizeBytes": 6460,
+      "format": "glb",
+      "outputFilename": "model_generated.glb",
+      "sourceImage": "mesh",
+      "textureMap": true,
+      "vertexCount": 538
+    }
+  },
+  "job_01a0fb13060844b34c025872": {
+    "jobId": "job_01a0fb13060844b34c025872",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_887d99a6adad4569.mp3",
+    "inputPath": "storage\\jobs\\job_01a0fb13060844b34c025872\\input\\input_887d99a6adad4569.mp3",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb13060844b34c025872\\output\\transcript.txt",
+    "createdAt": "2026-10-02T05:25:23.0925769Z",
+    "startedAt": "2026-10-02T05:25:23.3934572Z",
+    "completedAt": "2026-10-02T05:25:24.5494581Z",
+    "config": {
+      "diarization": false,
+      "language": "auto",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:01 - 00:03] Audio track \"input 887d99a6adad4569\" transcription completed successfully\n[00:04 - 00:08] Acoustic features and speech segments parsed locally with complete privacy\n[00:08 - 00:12] Zero external telemetry or third-party cloud processing involved",
+      "wordCount": 34
+    }
+  },
+  "job_01a0fb133ede4eab05ddc1a6": {
+    "jobId": "job_01a0fb133ede4eab05ddc1a6",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_abadd2039329725f.wav",
+    "inputPath": "storage\\jobs\\job_01a0fb133ede4eab05ddc1a6\\input\\input_abadd2039329725f.wav",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb133ede4eab05ddc1a6\\output\\transcript.txt",
+    "createdAt": "2026-10-02T05:25:37.6351995Z",
+    "startedAt": "2026-10-02T05:25:37.9773715Z",
+    "completedAt": "2026-10-02T05:25:39.17863Z",
+    "config": {
+      "diarization": false,
+      "language": "auto",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:01 - 00:03] Audio track \"input abadd2039329725f\" transcription completed successfully\n[00:04 - 00:08] Acoustic features and speech segments parsed locally with complete privacy\n[00:08 - 00:12] Zero external telemetry or third-party cloud processing involved",
+      "wordCount": 34
+    }
+  },
+  "job_01a0fb138f5832f51912fca6": {
+    "jobId": "job_01a0fb138f5832f51912fca6",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_6ec546fc558e242e.mp3",
+    "inputPath": "storage\\jobs\\job_01a0fb138f5832f51912fca6\\input\\input_6ec546fc558e242e.mp3",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb138f5832f51912fca6\\output\\transcript.txt",
+    "createdAt": "2026-10-02T05:25:58.2515224Z",
+    "startedAt": "2026-10-02T05:25:58.5521848Z",
+    "completedAt": "2026-10-02T05:25:59.7100239Z",
+    "config": {
+      "diarization": false,
+      "language": "auto",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:01 - 00:03] Audio track \"input 6ec546fc558e242e\" transcription completed successfully\n[00:04 - 00:08] Acoustic features and speech segments parsed locally with complete privacy\n[00:08 - 00:12] Zero external telemetry or third-party cloud processing involved",
+      "wordCount": 34
+    }
+  },
+  "job_01a0fb174c1f96027e5eda95": {
+    "jobId": "job_01a0fb174c1f96027e5eda95",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb174c1f96027e5eda95\\output\\summary.txt",
+    "createdAt": "2026-10-02T05:30:03.1676635Z",
+    "startedAt": "2026-10-02T05:30:03.4716295Z",
+    "completedAt": "2026-10-02T05:30:04.4799181Z",
+    "config": {
+      "format": "bullet_points",
+      "length": "medium",
+      "textInput": "The Anonymous Self-Hosted AI Toolbox represents a breakthrough in private artificial intelligence deployment. Unlike conventional cloud-based services that transmit confidential audio, imagery, and text documents across third-party remote datacenters, this suite operates entirely on local hardware infrastructure.\r\n\r\nKey architectural highlights include a high-concurrency Go orchestration engine featuring Semaphore-governed worker pools, streaming Server-Sent Events (SSE), and a 24-hour ephemeral file purging system. The frontend leverages React 18, Vite, Three.js WebGL 2.0 visualization, and modern glassmorphic responsive interface components. Complete zero-telemetry guarantees ensure compliance with strict privacy requirements."
+    },
+    "result": {
+      "format": "bullet_points",
+      "length": "medium",
+      "outputFilename": "summary.txt",
+      "summary": "KEY INSIGHTS \u0026 TAKEAWAYS:\n\n• Unlike conventional cloud-based services that transmit confidential audio, imagery, and text documents across third-party remote datacenters, this suite operates entirely on local hardware infrastructure.\n• Key architectural highlights include a high-concurrency Go orchestration engine featuring Semaphore-governed worker pools, streaming Server-Sent Events (SSE), and a 24-hour ephemeral file purging system.\n• The frontend leverages React 18, Vite, Three.js WebGL 2.0 visualization, and modern glassmorphic responsive interface components.\n",
+      "wordCount": 71
+    }
+  },
+  "job_01a0fb178d3dc39d876829df": {
+    "jobId": "job_01a0fb178d3dc39d876829df",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb178d3dc39d876829df\\output\\summary.txt",
+    "createdAt": "2026-10-02T05:30:19.8376588Z",
+    "startedAt": "2026-10-02T05:30:20.1384478Z",
+    "completedAt": "2026-10-02T05:30:21.1454901Z",
+    "config": {
+      "format": "bullet_points",
+      "length": "short",
+      "textInput": "The Anonymous Self-Hosted AI Toolbox represents a breakthrough in private artificial intelligence deployment. Unlike conventional cloud-based services that transmit confidential audio, imagery, and text documents across third-party remote datacenters, this suite operates entirely on local hardware infrastructure.\r\n\r\nKey architectural highlights include a high-concurrency Go orchestration engine featuring Semaphore-governed worker pools, streaming Server-Sent Events (SSE), and a 24-hour ephemeral file purging system. The frontend leverages React 18, Vite, Three.js WebGL 2.0 visualization, and modern glassmorphic responsive interface components. Complete zero-telemetry guarantees ensure compliance with strict privacy requirements."
+    },
+    "result": {
+      "format": "bullet_points",
+      "length": "short",
+      "outputFilename": "summary.txt",
+      "summary": "KEY INSIGHTS \u0026 TAKEAWAYS:\n\n• Unlike conventional cloud-based services that transmit confidential audio, imagery, and text documents across third-party remote datacenters, this suite operates entirely on local hardware infrastructure.\n• Key architectural highlights include a high-concurrency Go orchestration engine featuring Semaphore-governed worker pools, streaming Server-Sent Events (SSE), and a 24-hour ephemeral file purging system.\n",
+      "wordCount": 54
+    }
+  },
+  "job_01a0fb179ddc85d88342fd08": {
+    "jobId": "job_01a0fb179ddc85d88342fd08",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb179ddc85d88342fd08\\output\\summary.txt",
+    "createdAt": "2026-10-02T05:30:24.0927882Z",
+    "startedAt": "2026-10-02T05:30:24.3936107Z",
+    "completedAt": "2026-10-02T05:30:25.4807945Z",
+    "config": {
+      "format": "executive",
+      "length": "short",
+      "textInput": "The Anonymous Self-Hosted AI Toolbox represents a breakthrough in private artificial intelligence deployment. Unlike conventional cloud-based services that transmit confidential audio, imagery, and text documents across third-party remote datacenters, this suite operates entirely on local hardware infrastructure.\r\n\r\nKey architectural highlights include a high-concurrency Go orchestration engine featuring Semaphore-governed worker pools, streaming Server-Sent Events (SSE), and a 24-hour ephemeral file purging system. The frontend leverages React 18, Vite, Three.js WebGL 2.0 visualization, and modern glassmorphic responsive interface components. Complete zero-telemetry guarantees ensure compliance with strict privacy requirements."
+    },
+    "result": {
+      "format": "executive",
+      "length": "short",
+      "outputFilename": "summary.txt",
+      "summary": "EXECUTIVE SUMMARY BRIEF\n==================================================\n\n🎯 CORE FOCUS:\nUnlike conventional cloud-based services that transmit confidential audio, imagery, and text documents across third-party remote datacenters, this suite operates entirely on local hardware infrastructure.\n\n📊 KEY HIGHLIGHTS:\n• Key architectural highlights include a high-concurrency Go orchestration engine featuring Semaphore-governed worker pools, streaming Server-Sent Events (SSE), and a 24-hour ephemeral file purging system.\n",
+      "wordCount": 59
+    }
+  },
+  "job_01a0fb1a729d04b7aa21dec2": {
+    "jobId": "job_01a0fb1a729d04b7aa21dec2",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb1a729d04b7aa21dec2\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-02T05:33:29.6294149Z",
+    "startedAt": "2026-10-02T05:33:29.8803851Z",
+    "completedAt": "2026-10-02T05:33:30.694051Z",
+    "config": {
+      "formality": "default",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "textInput": "Welcome to the Anonymous Self-Hosted AI Toolbox. Everything runs locally on your machine."
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "तपाईंलाई स्वागत छ लाई / तिर त्यो Aहोइनnymous Self-Hosted AI Toolbox. Everytनमस्तेng runs locally मा / माथि तपाईंको machine.",
+      "wordCount": 19
+    }
+  },
+  "job_01a0fb1aa3cf8c7bcfe737ea": {
+    "jobId": "job_01a0fb1aa3cf8c7bcfe737ea",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb1aa3cf8c7bcfe737ea\\output\\summary.txt",
+    "createdAt": "2026-10-02T05:33:42.223686Z",
+    "startedAt": "2026-10-02T05:33:42.5256338Z",
+    "completedAt": "2026-10-02T05:33:43.5453925Z",
+    "config": {
+      "format": "bullet_points",
+      "length": "medium",
+      "textInput": " 𝐌𝐀𝐉𝐎𝐑 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 | 𝐋𝐀 𝐋𝐈𝐆𝐀 𝐂𝐈𝐕𝐈𝐋 𝐖𝐀𝐑: Javier Tebas leaks official invoices in late-night attack on Real Madrid! 🤬⚖️💥\r\n\r\nThe war between La Liga’s President and Real Madrid has gone from verbal barbs to leaked corporate paper trails. Tebas hit back at a prominent Madrid account, calling its followers \"bootlickers\" before uploading the club's official invoices:\r\n\r\n📉 𝐓𝐡𝐞 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐫𝐨𝐨𝐟 𝐄𝐱𝐩𝐨𝐬𝐞𝐝:\r\n\r\n1️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝟏𝟖𝟎𝟏𝐆𝟐𝟓𝟖 (𝐉𝐚𝐧 𝟐𝟎𝟏𝟖): Shows Real Madrid billing Audiovisual New Aged €5,243.31 for a formal financial guarantee presented to the State Tax Agency (AEAT).\r\n\r\n2️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝐀𝐈𝐄 𝟑𝟒 (𝐃𝐞𝐜 𝟐𝟎𝟏𝟖): Shows the company billing Real Madrid €68,293.63 (including 21% VAT) for seasonal operating expenses, addressed directly to Managing Director José Ángel Sánchez (JAS).\r\n\r\n🫵 \"𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐏𝐚𝐢𝐝 𝐄𝐱𝐜𝐞𝐩𝐭 𝐑𝐞𝐚𝐥 𝐌𝐚𝐝𝐫𝐢𝐝\": Tebas insists these documents prove the financial relationship worked both ways, claiming the fund triggered a massive tax inspection where every club took out loans to cover settlements except Real Madrid.\r\n\r\n📧 𝐓𝐡𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐓𝐡𝐫𝐞𝐚𝐭: Tebas has publicly challenged RM directors JAS and Chitín del Valle to explain the full email threads behind these transactions, warning: \"When you tell this story, tell it whole... I'm sure it will continue.\" 🍿🍿"
+    },
+    "result": {
+      "format": "bullet_points",
+      "length": "medium",
+      "outputFilename": "summary.txt",
+      "summary": "KEY INSIGHTS \u0026 TAKEAWAYS:\n\n• 𝐌𝐀𝐉𝐎𝐑 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 | 𝐋𝐀 𝐋𝐈𝐆𝐀 𝐂𝐈𝐕𝐈𝐋 𝐖𝐀𝐑: Javier Tebas leaks official invoices in late-night attack on Real Madrid.\n• 2️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝐀𝐈𝐄 𝟑𝟒 (𝐃𝐞𝐜 𝟐𝟎𝟏𝟖): Shows the company billing Real Madrid €68,293.63 (including 21% VAT) for seasonal operating expenses, addressed directly to Managing Director José Ángel Sánchez (JAS).\n• 🫵 \"𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐏𝐚𝐢𝐝 𝐄𝐱𝐜𝐞𝐩𝐭 𝐑𝐞𝐚𝐥 𝐌𝐚𝐝𝐫𝐢𝐝\": Tebas insists these documents prove the financial relationship worked both ways, claiming the fund triggered a massive tax inspection where every club took out loans to cover settlements except Real Madrid.\n",
+      "wordCount": 91
+    }
+  },
+  "job_01a0fb1acbe5fcfe3f8bbe79": {
+    "jobId": "job_01a0fb1acbe5fcfe3f8bbe79",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb1acbe5fcfe3f8bbe79\\output\\summary.txt",
+    "createdAt": "2026-10-02T05:33:52.4850899Z",
+    "startedAt": "2026-10-02T05:33:52.7853464Z",
+    "completedAt": "2026-10-02T05:33:53.8050854Z",
+    "config": {
+      "format": "bullet_points",
+      "length": "short",
+      "textInput": " 𝐌𝐀𝐉𝐎𝐑 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 | 𝐋𝐀 𝐋𝐈𝐆𝐀 𝐂𝐈𝐕𝐈𝐋 𝐖𝐀𝐑: Javier Tebas leaks official invoices in late-night attack on Real Madrid! 🤬⚖️💥\r\n\r\nThe war between La Liga’s President and Real Madrid has gone from verbal barbs to leaked corporate paper trails. Tebas hit back at a prominent Madrid account, calling its followers \"bootlickers\" before uploading the club's official invoices:\r\n\r\n📉 𝐓𝐡𝐞 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐫𝐨𝐨𝐟 𝐄𝐱𝐩𝐨𝐬𝐞𝐝:\r\n\r\n1️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝟏𝟖𝟎𝟏𝐆𝟐𝟓𝟖 (𝐉𝐚𝐧 𝟐𝟎𝟏𝟖): Shows Real Madrid billing Audiovisual New Aged €5,243.31 for a formal financial guarantee presented to the State Tax Agency (AEAT).\r\n\r\n2️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝐀𝐈𝐄 𝟑𝟒 (𝐃𝐞𝐜 𝟐𝟎𝟏𝟖): Shows the company billing Real Madrid €68,293.63 (including 21% VAT) for seasonal operating expenses, addressed directly to Managing Director José Ángel Sánchez (JAS).\r\n\r\n🫵 \"𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐏𝐚𝐢𝐝 𝐄𝐱𝐜𝐞𝐩𝐭 𝐑𝐞𝐚𝐥 𝐌𝐚𝐝𝐫𝐢𝐝\": Tebas insists these documents prove the financial relationship worked both ways, claiming the fund triggered a massive tax inspection where every club took out loans to cover settlements except Real Madrid.\r\n\r\n📧 𝐓𝐡𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐓𝐡𝐫𝐞𝐚𝐭: Tebas has publicly challenged RM directors JAS and Chitín del Valle to explain the full email threads behind these transactions, warning: \"When you tell this story, tell it whole... I'm sure it will continue.\" 🍿🍿"
+    },
+    "result": {
+      "format": "bullet_points",
+      "length": "short",
+      "outputFilename": "summary.txt",
+      "summary": "KEY INSIGHTS \u0026 TAKEAWAYS:\n\n• 2️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝐀𝐈𝐄 𝟑𝟒 (𝐃𝐞𝐜 𝟐𝟎𝟏𝟖): Shows the company billing Real Madrid €68,293.63 (including 21% VAT) for seasonal operating expenses, addressed directly to Managing Director José Ángel Sánchez (JAS).\n• 🫵 \"𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐏𝐚𝐢𝐝 𝐄𝐱𝐜𝐞𝐩𝐭 𝐑𝐞𝐚𝐥 𝐌𝐚𝐝𝐫𝐢𝐝\": Tebas insists these documents prove the financial relationship worked both ways, claiming the fund triggered a massive tax inspection where every club took out loans to cover settlements except Real Madrid.\n",
+      "wordCount": 72
+    }
+  },
+  "job_01a0fb1b01256cf8db4fcc02": {
+    "jobId": "job_01a0fb1b01256cf8db4fcc02",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb1b01256cf8db4fcc02\\output\\summary.txt",
+    "createdAt": "2026-10-02T05:34:06.1174465Z",
+    "startedAt": "2026-10-02T05:34:06.41873Z",
+    "completedAt": "2026-10-02T05:34:07.4302544Z",
+    "config": {
+      "format": "executive",
+      "length": "short",
+      "textInput": " 𝐌𝐀𝐉𝐎𝐑 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 | 𝐋𝐀 𝐋𝐈𝐆𝐀 𝐂𝐈𝐕𝐈𝐋 𝐖𝐀𝐑: Javier Tebas leaks official invoices in late-night attack on Real Madrid! 🤬⚖️💥\r\n\r\nThe war between La Liga’s President and Real Madrid has gone from verbal barbs to leaked corporate paper trails. Tebas hit back at a prominent Madrid account, calling its followers \"bootlickers\" before uploading the club's official invoices:\r\n\r\n📉 𝐓𝐡𝐞 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐫𝐨𝐨𝐟 𝐄𝐱𝐩𝐨𝐬𝐞𝐝:\r\n\r\n1️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝟏𝟖𝟎𝟏𝐆𝟐𝟓𝟖 (𝐉𝐚𝐧 𝟐𝟎𝟏𝟖): Shows Real Madrid billing Audiovisual New Aged €5,243.31 for a formal financial guarantee presented to the State Tax Agency (AEAT).\r\n\r\n2️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝐀𝐈𝐄 𝟑𝟒 (𝐃𝐞𝐜 𝟐𝟎𝟏𝟖): Shows the company billing Real Madrid €68,293.63 (including 21% VAT) for seasonal operating expenses, addressed directly to Managing Director José Ángel Sánchez (JAS).\r\n\r\n🫵 \"𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐏𝐚𝐢𝐝 𝐄𝐱𝐜𝐞𝐩𝐭 𝐑𝐞𝐚𝐥 𝐌𝐚𝐝𝐫𝐢𝐝\": Tebas insists these documents prove the financial relationship worked both ways, claiming the fund triggered a massive tax inspection where every club took out loans to cover settlements except Real Madrid.\r\n\r\n📧 𝐓𝐡𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐓𝐡𝐫𝐞𝐚𝐭: Tebas has publicly challenged RM directors JAS and Chitín del Valle to explain the full email threads behind these transactions, warning: \"When you tell this story, tell it whole... I'm sure it will continue.\" 🍿🍿"
+    },
+    "result": {
+      "format": "executive",
+      "length": "short",
+      "outputFilename": "summary.txt",
+      "summary": "EXECUTIVE SUMMARY BRIEF\n==================================================\n\n🎯 CORE FOCUS:\n2️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝐀𝐈𝐄 𝟑𝟒 (𝐃𝐞𝐜 𝟐𝟎𝟏𝟖): Shows the company billing Real Madrid €68,293.63 (including 21% VAT) for seasonal operating expenses, addressed directly to Managing Director José Ángel Sánchez (JAS).\n\n📊 KEY HIGHLIGHTS:\n• 🫵 \"𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐏𝐚𝐢𝐝 𝐄𝐱𝐜𝐞𝐩𝐭 𝐑𝐞𝐚𝐥 𝐌𝐚𝐝𝐫𝐢𝐝\": Tebas insists these documents prove the financial relationship worked both ways, claiming the fund triggered a massive tax inspection where every club took out loans to cover settlements except Real Madrid.\n",
+      "wordCount": 77
+    }
+  },
+  "job_01a0fb1d69d51c08893891ee": {
+    "jobId": "job_01a0fb1d69d51c08893891ee",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb1d69d51c08893891ee\\output\\summary.txt",
+    "createdAt": "2026-10-02T05:36:43.9897225Z",
+    "startedAt": "2026-10-02T05:36:44.2902019Z",
+    "completedAt": "2026-10-02T05:36:45.3032561Z",
+    "config": {
+      "format": "executive",
+      "length": "detailed",
+      "textInput": " 𝐌𝐀𝐉𝐎𝐑 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 | 𝐋𝐀 𝐋𝐈𝐆𝐀 𝐂𝐈𝐕𝐈𝐋 𝐖𝐀𝐑: Javier Tebas leaks official invoices in late-night attack on Real Madrid! 🤬⚖️💥\r\n\r\nThe war between La Liga’s President and Real Madrid has gone from verbal barbs to leaked corporate paper trails. Tebas hit back at a prominent Madrid account, calling its followers \"bootlickers\" before uploading the club's official invoices:\r\n\r\n📉 𝐓𝐡𝐞 𝐅𝐢𝐧𝐚𝐧𝐜𝐢𝐚𝐥 𝐏𝐫𝐨𝐨𝐟 𝐄𝐱𝐩𝐨𝐬𝐞𝐝:\r\n\r\n1️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝟏𝟖𝟎𝟏𝐆𝟐𝟓𝟖 (𝐉𝐚𝐧 𝟐𝟎𝟏𝟖): Shows Real Madrid billing Audiovisual New Aged €5,243.31 for a formal financial guarantee presented to the State Tax Agency (AEAT).\r\n\r\n2️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝐀𝐈𝐄 𝟑𝟒 (𝐃𝐞𝐜 𝟐𝟎𝟏𝟖): Shows the company billing Real Madrid €68,293.63 (including 21% VAT) for seasonal operating expenses, addressed directly to Managing Director José Ángel Sánchez (JAS).\r\n\r\n🫵 \"𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐏𝐚𝐢𝐝 𝐄𝐱𝐜𝐞𝐩𝐭 𝐑𝐞𝐚𝐥 𝐌𝐚𝐝𝐫𝐢𝐝\": Tebas insists these documents prove the financial relationship worked both ways, claiming the fund triggered a massive tax inspection where every club took out loans to cover settlements except Real Madrid.\r\n\r\n📧 𝐓𝐡𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐓𝐡𝐫𝐞𝐚𝐭: Tebas has publicly challenged RM directors JAS and Chitín del Valle to explain the full email threads behind these transactions, warning: \"When you tell this story, tell it whole... I'm sure it will continue.\" 🍿🍿"
+    },
+    "result": {
+      "format": "executive",
+      "length": "detailed",
+      "outputFilename": "summary.txt",
+      "summary": "EXECUTIVE SUMMARY BRIEF\n==================================================\n\n🎯 CORE FOCUS:\n𝐌𝐀𝐉𝐎𝐑 𝐁𝐑𝐄𝐀𝐊𝐈𝐍𝐆 | 𝐋𝐀 𝐋𝐈𝐆𝐀 𝐂𝐈𝐕𝐈𝐋 𝐖𝐀𝐑: Javier Tebas leaks official invoices in late-night attack on Real Madrid.\n\n📊 KEY HIGHLIGHTS:\n• 1️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝟏𝟖𝟎𝟏𝐆𝟐𝟓𝟖 (𝐉𝐚𝐧 𝟐𝟎𝟏𝟖): Shows Real Madrid billing Audiovisual New Aged €5,243.31 for a formal financial guarantee presented to the State Tax Agency (AEAT).\n• 2️⃣ 𝐈𝐧𝐯𝐨𝐢𝐜𝐞 𝐀𝐈𝐄 𝟑𝟒 (𝐃𝐞𝐜 𝟐𝟎𝟏𝟖): Shows the company billing Real Madrid €68,293.63 (including 21% VAT) for seasonal operating expenses, addressed directly to Managing Director José Ángel Sánchez (JAS).\n• 🫵 \"𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐏𝐚𝐢𝐝 𝐄𝐱𝐜𝐞𝐩𝐭 𝐑𝐞𝐚𝐥 𝐌𝐚𝐝𝐫𝐢𝐝\": Tebas insists these documents prove the financial relationship worked both ways, claiming the fund triggered a massive tax inspection where every club took out loans to cover settlements except Real Madrid.\n• 📧 𝐓𝐡𝐞 𝐄𝐱𝐞𝐜𝐮𝐭𝐢𝐯𝐞 𝐓𝐡𝐫𝐞𝐚𝐭: Tebas has publicly challenged RM directors JAS and Chitín del Valle to explain the full email threads behind these transactions, warning: \"When you tell this story, tell it whole.\n",
+      "wordCount": 156
+    }
+  },
+  "job_01a0fb1da30595e565663c87": {
+    "jobId": "job_01a0fb1da30595e565663c87",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_e2e296f7f92baf9b.m4a",
+    "inputPath": "storage\\jobs\\job_01a0fb1da30595e565663c87\\input\\input_e2e296f7f92baf9b.m4a",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb1da30595e565663c87\\output\\transcript.txt",
+    "createdAt": "2026-10-02T05:36:58.6383607Z",
+    "startedAt": "2026-10-02T05:36:58.9406993Z",
+    "completedAt": "2026-10-02T05:37:00.0981003Z",
+    "config": {
+      "diarization": false,
+      "language": "auto",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:01 - 00:05] Acoustic stream parsed for audio track \"input e2e296f7f92baf9b\".\n[00:05 - 00:09] Speech segments detected with clear vocal clarity and balanced acoustic frequency.\n[00:10 - 00:14] Locally parsed transcript synchronized with zero telemetry or cloud transmission.\n[00:14 - 00:18] All linguistic tokens, timestamps, and phonetic boundaries verified successfully.",
+      "wordCount": 50
+    }
+  },
+  "job_01a0fb1dbcd464c71d29f932": {
+    "jobId": "job_01a0fb1dbcd464c71d29f932",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_d73efa171d52fbef.m4a",
+    "inputPath": "storage\\jobs\\job_01a0fb1dbcd464c71d29f932\\input\\input_d73efa171d52fbef.m4a",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb1dbcd464c71d29f932\\output\\transcript.txt",
+    "createdAt": "2026-10-02T05:37:05.2457393Z",
+    "startedAt": "2026-10-02T05:37:05.5474071Z",
+    "completedAt": "2026-10-02T05:37:06.7051319Z",
+    "config": {
+      "diarization": false,
+      "language": "en",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:01 - 00:05] Acoustic stream parsed for audio track \"input d73efa171d52fbef\".\n[00:05 - 00:09] Speech segments detected with clear vocal clarity and balanced acoustic frequency.\n[00:10 - 00:14] Locally parsed transcript synchronized with zero telemetry or cloud transmission.\n[00:14 - 00:18] All linguistic tokens, timestamps, and phonetic boundaries verified successfully.",
+      "wordCount": 50
+    }
+  },
+  "job_01a0fb2f5a6a43ea457b90ee": {
+    "jobId": "job_01a0fb2f5a6a43ea457b90ee",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_1dbe2aee859ff0d5.png",
+    "inputPath": "storage\\jobs\\job_01a0fb2f5a6a43ea457b90ee\\input\\input_1dbe2aee859ff0d5.png",
+    "outputFilename": "model_generated.glb",
+    "outputPath": "storage\\jobs\\job_01a0fb2f5a6a43ea457b90ee\\output\\model_generated.glb",
+    "createdAt": "2026-10-02T05:56:19.7079177Z",
+    "startedAt": "2026-10-02T05:56:20.0599069Z",
+    "completedAt": "2026-10-02T05:56:21.9156904Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "glb",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "fileSizeBytes": 6460,
+      "format": "glb",
+      "outputFilename": "model_generated.glb",
+      "sourceImage": "input_1dbe2aee859ff0d5",
+      "textureMap": true,
+      "vertexCount": 538
+    }
+  },
+  "job_01a0fb2fb84cf012e16fc276": {
+    "jobId": "job_01a0fb2fb84cf012e16fc276",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_efe03f242fcdcbd7.jpg",
+    "inputPath": "storage\\jobs\\job_01a0fb2fb84cf012e16fc276\\input\\input_efe03f242fcdcbd7.jpg",
+    "outputFilename": "model_generated.glb",
+    "outputPath": "storage\\jobs\\job_01a0fb2fb84cf012e16fc276\\output\\model_generated.glb",
+    "createdAt": "2026-10-02T05:56:43.7319311Z",
+    "startedAt": "2026-10-02T05:56:44.1403745Z",
+    "completedAt": "2026-10-02T05:56:45.9996773Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "glb",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "fileSizeBytes": 6460,
+      "format": "glb",
+      "outputFilename": "model_generated.glb",
+      "sourceImage": "input_efe03f242fcdcbd7",
+      "textureMap": true,
+      "vertexCount": 538
+    }
+  },
+  "job_01a0fb2ffb42189bb07e60f7": {
+    "jobId": "job_01a0fb2ffb42189bb07e60f7",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_cb80f35c11a29bcb.jpg",
+    "inputPath": "storage\\jobs\\job_01a0fb2ffb42189bb07e60f7\\input\\input_cb80f35c11a29bcb.jpg",
+    "outputFilename": "model_generated.obj",
+    "outputPath": "storage\\jobs\\job_01a0fb2ffb42189bb07e60f7\\output\\model_generated.obj",
+    "createdAt": "2026-10-02T05:57:00.8737516Z",
+    "startedAt": "2026-10-02T05:57:01.2254097Z",
+    "completedAt": "2026-10-02T05:57:03.0887103Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "obj",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "fileSizeBytes": 6456,
+      "format": "obj",
+      "outputFilename": "model_generated.obj",
+      "sourceImage": "input_cb80f35c11a29bcb",
+      "textureMap": true,
+      "vertexCount": 538
+    }
+  },
+  "job_01a0fb3054a99b465173a6d2": {
+    "jobId": "job_01a0fb3054a99b465173a6d2",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_63765301adcce53e.jpg",
+    "inputPath": "storage\\jobs\\job_01a0fb3054a99b465173a6d2\\input\\input_63765301adcce53e.jpg",
+    "outputFilename": "model_generated.obj",
+    "outputPath": "storage\\jobs\\job_01a0fb3054a99b465173a6d2\\output\\model_generated.obj",
+    "createdAt": "2026-10-02T05:57:23.7604319Z",
+    "startedAt": "2026-10-02T05:57:24.113214Z",
+    "completedAt": "2026-10-02T05:57:25.9714916Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "obj",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "fileSizeBytes": 6456,
+      "format": "obj",
+      "outputFilename": "model_generated.obj",
+      "sourceImage": "input_63765301adcce53e",
+      "textureMap": true,
+      "vertexCount": 538
+    }
+  },
+  "job_01a0fb30653fca8e59982e16": {
+    "jobId": "job_01a0fb30653fca8e59982e16",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_57fbea63b47df2a4.jpg",
+    "inputPath": "storage\\jobs\\job_01a0fb30653fca8e59982e16\\input\\input_57fbea63b47df2a4.jpg",
+    "outputFilename": "model_generated.stl",
+    "outputPath": "storage\\jobs\\job_01a0fb30653fca8e59982e16\\output\\model_generated.stl",
+    "createdAt": "2026-10-02T05:57:28.0081882Z",
+    "startedAt": "2026-10-02T05:57:28.3597007Z",
+    "completedAt": "2026-10-02T05:57:30.2175758Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "stl",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "fileSizeBytes": 140,
+      "format": "stl",
+      "outputFilename": "model_generated.stl",
+      "sourceImage": "input_57fbea63b47df2a4",
+      "textureMap": true,
+      "vertexCount": 11
+    }
+  },
+  "job_01a0fb30778139fba29bc73c": {
+    "jobId": "job_01a0fb30778139fba29bc73c",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_fe4a1ecb4f6eed4a.jpg",
+    "inputPath": "storage\\jobs\\job_01a0fb30778139fba29bc73c\\input\\input_fe4a1ecb4f6eed4a.jpg",
+    "outputFilename": "model_generated.glb",
+    "outputPath": "storage\\jobs\\job_01a0fb30778139fba29bc73c\\output\\model_generated.glb",
+    "createdAt": "2026-10-02T05:57:32.6821352Z",
+    "startedAt": "2026-10-02T05:57:33.0336372Z",
+    "completedAt": "2026-10-02T05:57:34.8905623Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "glb",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "fileSizeBytes": 6460,
+      "format": "glb",
+      "outputFilename": "model_generated.glb",
+      "sourceImage": "input_fe4a1ecb4f6eed4a",
+      "textureMap": true,
+      "vertexCount": 538
+    }
+  },
+  "job_01a0fb30b756ad9a174a3f74": {
+    "jobId": "job_01a0fb30b756ad9a174a3f74",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_en.wav",
+    "outputPath": "storage\\jobs\\job_01a0fb30b756ad9a174a3f74\\output\\speech_en.wav",
+    "createdAt": "2026-10-02T05:57:49.0148838Z",
+    "startedAt": "2026-10-02T05:57:49.3158192Z",
+    "completedAt": "2026-10-02T05:57:50.5970997Z",
+    "config": {
+      "language": "en",
+      "outputFormat": "wav",
+      "pitch": 1,
+      "speed": 1.6,
+      "textInput": "Welcome to the Anonymous Self-Hosted AI Toolbox. All voice audio is generated on-premise.",
+      "voice": "natural_female"
+    },
+    "result": {
+      "durationSec": 3.7,
+      "language": "en",
+      "outputFilename": "speech_en.wav",
+      "outputFormat": "wav",
+      "speed": 1.6,
+      "textLength": 89,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0fb3252f4d6420caee0d9": {
+    "jobId": "job_01a0fb3252f4d6420caee0d9",
+    "tool": "image-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_bfdd82d8546bed78.jpeg",
+    "inputPath": "storage\\jobs\\job_01a0fb3252f4d6420caee0d9\\input\\input_bfdd82d8546bed78.jpeg",
+    "outputFilename": "extracted_text.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb3252f4d6420caee0d9\\output\\extracted_text.txt",
+    "createdAt": "2026-10-02T05:59:34.4165264Z",
+    "startedAt": "2026-10-02T05:59:34.7216397Z",
+    "completedAt": "2026-10-02T05:59:35.7773885Z",
+    "config": {
+      "enhanceContrast": true,
+      "language": "auto",
+      "preserveLayout": true
+    },
+    "result": {
+      "confidence": 0.994,
+      "language": "en",
+      "outputFilename": "extracted_text.txt",
+      "text": "EXTRACTED DOCUMENT OCR CONTENT\n=========================================================\nSOURCE FILE : input_bfdd82d8546bed78.jpeg\nPARSED TIME : Fri, 02 Oct 2026 05:59:35 UTC\nRECOGNITION : Neural Vision OCR (Local Engine)\nCONFIDENCE  : 99.4%\n\nSECTION 1: DOCUMENT HEADER\n---------------------------------------------------------\nThe input document \"input_bfdd82d8546bed78.jpeg\" has been parsed with character segmentation and layout boundaries preserved.\n\nSECTION 2: EXTRACTED BODY TEXT\n• Execution Mode: 100% Offline On-Premise Processing\n• Data Telemetry: Disabled (Zero third-party logging)\n• File Format: High-Resolution Optical Character Scan\n\nSECTION 3: KEYWORDS DETECTED\n[Security, Localhost, Private, Autonomous, OCR, Engine]",
+      "wordCount": 83
+    }
+  },
+  "job_01a0fb327f9f467854c113e2": {
+    "jobId": "job_01a0fb327f9f467854c113e2",
+    "tool": "image-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_3f91e23980a2c0c6.png",
+    "inputPath": "storage\\jobs\\job_01a0fb327f9f467854c113e2\\input\\input_3f91e23980a2c0c6.png",
+    "outputFilename": "extracted_text.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb327f9f467854c113e2\\output\\extracted_text.txt",
+    "createdAt": "2026-10-02T05:59:45.8291889Z",
+    "startedAt": "2026-10-02T05:59:46.1307711Z",
+    "completedAt": "2026-10-02T05:59:47.1875316Z",
+    "config": {
+      "enhanceContrast": true,
+      "language": "ne",
+      "preserveLayout": true
+    },
+    "result": {
+      "confidence": 0.994,
+      "language": "ne",
+      "outputFilename": "extracted_text.txt",
+      "text": "कागजात तथा पाठ विवरण (input_3f91e23980a2c0c6.png)\n---------------------------------------------------------\n१. मुख्य शीर्षक:\n   स्थानीय अप्टिकल क्यारेक्टर पहिचान (OCR) परिणाम\n\n२. कागजात विवरण:\n   • फाइल नाम: input_3f91e23980a2c0c6.png\n   • आकार: 23287 बाइट्स\n   • भाषा: नेपाली (Devanagari Script)\n   • शुद्धता दर: ९९.४%\n\n३. पहिचान गरिएको सामग्री:\n   यो स्व-होस्ट गरिएको एआई टुलबक्स स्थानीय सर्भरमा सुरक्षित रूपमा चल्छ।\n   सबै कागजातहरू र तस्बिरहरू गोप्य रूपमा प्रशोधन गरिन्छ।\n\n४. सारांश:\n   सफलतापूर्वक सबै अक्षर तथा वाक्यहरू पहिचान गरियो।",
+      "wordCount": 66
+    }
+  },
+  "job_01a0fb3896fbc6feb964321c": {
+    "jobId": "job_01a0fb3896fbc6feb964321c",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb3896fbc6feb964321c\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-02T06:06:25.0200763Z",
+    "startedAt": "2026-10-02T06:06:25.2713104Z",
+    "completedAt": "2026-10-02T06:06:26.0746796Z",
+    "config": {
+      "textInput": "Hello, how are you? Welcome to our system."
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "नमस्ते, तपाईंलाई कस्तो छ?? तपाईंलाई स्वागत छ लाई / तिर हाम्रो प्रणाली.",
+      "wordCount": 12
+    }
+  },
+  "job_01a0fb38da765e2e726b93f2": {
+    "jobId": "job_01a0fb38da765e2e726b93f2",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "input_5038a3c7aa6f98f2.md",
+    "inputPath": "storage\\jobs\\job_01a0fb38da765e2e726b93f2\\input\\input_5038a3c7aa6f98f2.md",
+    "outputFilename": "input_5038a3c7aa6f98f2_translated_ne.md",
+    "outputPath": "storage\\jobs\\job_01a0fb38da765e2e726b93f2\\output\\input_5038a3c7aa6f98f2_translated_ne.md",
+    "createdAt": "2026-10-02T06:06:42.2979846Z",
+    "startedAt": "2026-10-02T06:06:42.5792595Z",
+    "completedAt": "2026-10-02T06:06:43.3951317Z",
+    "result": {
+      "outputFilename": "input_5038a3c7aa6f98f2_translated_ne.md",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "# Aहोइनnymous Self-Hosted AI Toolbox Suite 🚀\n\nएउटा modern, production-structured AI web application powered द्वारा एउटा **नमस्तेgh-concurrency जानु backend** र एउटा **React 18 + Three.js / React Three Fiber** frontend.\n\nBuilt को लागि **100% privacy, zero user accounts, zero telemetry, र zero paid cloud AI API dependencies**.\n\n---\n\n## 🌟 Key Capabilities \u0026 उपकरण Roster\n\n| उपकरण | Pipeline Engine | Output Formats | स्थानीय Engine Support |\n|---|---|---|---|\n| **Image लाई / तिर 3D** | Moहोइनcular Depth + Isosurface Reconstruction | `.glb`, `.obj`, `.stl` | TripoSR / Shap-E / स्थानीय Geometry |\n| **Audio लाई / तिर Text** | Voice Activity Detection + Acoustic Transformer | `.txt`, `.srt`, `.vtt`, `.json` | OpenAI Wनमस्तेsper स्थानीयl CLI) / Faster-Whisper |\n| **Video लाई / तिर Text** | FFmpeg Demux + Wनमस्तेsper Subtitle Sync | `.srt`, `.vtt`, `.txt` | FFmpeg + स्थानीय Whisper |\n| **Image OCR** | Optical Character Recognition \u0026 Layout Parsing | `.txt`, `.json` | Tesseract OCR / Vision OCR |\n| **Smart Summarizer** | Semantic Context Distillation \u0026 Extraction | `.txt`, `.md` | स्थानीय Ollama (`llama3`, `mistral`) / llama.cpp |\n| **Neural Translator** | English ⇄ Nepali \u0026 Multi-Language NMT | `.txt` | स्थानीय Neural Macनमस्तेne Translation Engine |\n| **Text लाई / तिर Speech** | Harmonic Acoustic Waveform Synthesis | `.mp3`, `.wav` | स्थानीय Neural Vocoder (EN \u0026 Nepali) |\n\n---\n\n## 🏗️ प्रणाली Arcनमस्तेtecture\n\n```text\nai-toolbox/\n├── frontend/ # React 18 + TypeScript + Vite + Tailwind CSS + Three.js\n│ ├── src/\n│ │ ├── components/ # Dropzone, Viewer3D, JobProgressCard, Navbar, Sidebar, Footer\n│ │ ├── features/ # image-to-3d, audio-to-text, video-to-text, ocr, summarizer, translator, text-to-speech\n│ │ ├── hooks/ # useJobRunner (unified job lifecycle), useSystemHealth\n│ │ ├── pages/ # DashboardPage, ToolPage, SystemPage\n│ │ ├── services/ # Typed API client साथमा / ले Server-Sent Events (SSE) \u0026 polling fallback\n│ │ ├── types/ # Strict TypeScript interfaces\n│ │ └── utils/ # उपकरण definitions \u0026 configuration\n│ ├── index.html\n│ └── package.json\n│\n├── backend/ # नमस्तेgh-Performance जानु Orchestrator\n│ ├── cmd/server/main.go # सर्भर entrypoint साथमा / ले graceful shutdown \u0026 cleanup routine\n│ ├── internal/\n│ │ ├── config/ # Environment variables loader\n│ │ ├── handlers/ # REST endpoints स्वास्थ्यh, Jobs, Events, Downloads, File serving)\n│ │ ├── jobs/ # In-memory \u0026 SQLite metadata store, Concurrency Queue (Semaphore)\n│ │ ├── middleware/ # CORS, IP Rate Limiter (60 req/min), Request Limiters\n│ │ ├── storage/ # Ephemeral isolated storage (input/output/temp) \u0026 traversal guard\n│ │ └── workers/ # Specialized workers को लागि सबै 7 tools (MOCK_AI \u0026 स्थानीय Models)\n│ ├── storage/jobs/ # Ephemeral job execution directories (auto-cleaned)\n│ ├── data/ # Persistent job metadata\n│ ├── go.mod\n│ └── server.exe # Pre-compiled standalone binary\n│\n├── .env.example # Environment configuration template\n└── README.md\n```\n\n---\n\n## ⚡ Quick Start स्थानीयl Development)\n\n### 1. Prerequisites\n- **होइनde.js** (v18+ recommended) \u0026 **npm**\n- **Go** (1.22+)\n\n---\n\n### 2. Start Backend\n\n```bash\ncd backend\nजानु दौडनु ./cmd/server\n```\n*The सर्भर हुनेछ / गर्नेछ start मा / माथि `http://localhost:8080`.*\n\n---\n\n### 3. Start Frontend\n\n```bash\ncd frontend\nnpm install\nnpm दौडनु dev\n```\n*The frontend development सर्भर हुनेछ / गर्नेछ launch मा / माथि `http://localhost:5173`.*\n\n---\n\n## 🧪 Mock Mode (`MOCK_AI=true`)\n\nद्वारा default, त्यो application runs मा **Mock Mode** (`MOCK_AI=true`).\n\n- **Zero GPU वा heavy मोडल installation required.**\n- Produces **valid, playable 3D GLB models**, valid WAV audio speech, synchronized SRT subtitles, र OCR text.\n- Provides realistic multi-stage processing simulation साथमा / ले live percentage progression र stage updates streamed via Server-Sent Events (SSE).\n\n---\n\n## 🔌 Connecting Real स्थानीय AI Models (`MOCK_AI=false`)\n\nलाई / तिर switch लाई / तिर real स्थानीय execution, configure `.env` मा `backend/`:\n\n```env\nMOCK_AI=false\nFFMPEG_PATH=ffmpeg\nWनमस्तेSPER_PATH=whisper\nTESSERACT_PATH=tesseract\nOLLAMA_URL=http://localhost:11434\nMAX_CONCURRENT_JOBS=2\n```\n\n### स्थानीय Engine Dependencies:\n1. **FFmpeg \u0026 Wनमस्तेsper (Audio/Video Speech-to-Text)**:\n- Install FFmpeg र Wनमस्तेsper CLI: `pip install openai-whisper`\n2. **Tesseract (OCR)**:\n- Install Tesseract OCR: `winget install UB-Mannheim.TesseractOCR` वा `apt install tesseract-ocr`\n3. **Ollama (Summarizer)**:\n- Install Ollama बाट [ollama.ai](https://ollama.ai) र दौडनु `ollama दौडनु llama3`\n\n---\n\n## 🛡️ Security \u0026 Privacy Guarantees\n\n1. **100% Aहोइनnymous**: होइन registration, passwords, JWTs, user accounts, वा tracking cookies.\n2. **Job Isolation**: Each job हो assigned एउटा ephemeral directory (`storage/jobs/\u003cjobId\u003e/`) साथमा / ले isolated `input/`, `output/`, र `temp/` paths.\n3. **Directory Traversal Protection**: सबै filesystem accesses हुन् / छन् validated against caहोइनnical base prefixes साथमा / ले strict boundary checks.\n4. **Automatic 24h Purge**: एउटा background cleaner automatically destroys job files र metadata older than `JOB_RETENTION_HOURS=24`.\n5. **Worker Concurrency Limit**: गाह्रो worker limits (`MAX_CONCURRENT_JOBS=2`) prevent CPU/GPU exhaustion.\n6. **Rate Limiting**: Automatic IP rate limiter prevents resource abuse.\n\n---\n\n## 📡 REST API Reference\n\n| Method | Endpoint | Description |\n|---|---|---|\n| `GET` | `/api/health` | प्रणाली स्वास्थ्य, version, mock mode status, र active slots |\n| `POST` | `/api/jobs` | सिर्जना गर्नु एउटा job (multipart form साथमा / ले `tool`, `file`, `configuration`, `textInput`) |\n| `GET` | `/api/jobs/:id` | Fetch job status, progress, stage, र metadata |\n| `GET` | `/api/jobs/:id/events` | Stream live Server-Sent Events (SSE) |\n| `GET` | `/api/jobs/:id/result` | Retrieve structured JSON result |\n| `GET` | `/api/jobs/:id/download` | Download generated file artifact साथमा / ले `Content-Disposition` |\n| `GET` | `/api/jobs/:id/file` | Serve raw file inline को लागि Three.js viewer वा audio player |\n| `POST` | `/api/jobs/:id/cancel` | Cancel एउटा active वा queued job |\n| `DELETE` | `/api/jobs/:id` | Delete job metadata र associated files |\n\n---\n\n## 🧪 Testing \u0026 Verification\n\n### Backend Tests:\n```bash\ncd backend\nजानु test -v ./...\nजानु vet ./...\n```\n\n### Frontend निर्माण गर्नु \u0026 Lint:\n```bash\ncd frontend\nnpm दौडनु निर्माण गर्नु\nnpx tsc --होइनEmit\n```",
+      "wordCount": 938
+    }
+  },
+  "job_01a0fb3a536adccd3cd5bd06": {
+    "jobId": "job_01a0fb3a536adccd3cd5bd06",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "README.md",
+    "inputPath": "storage\\jobs\\job_01a0fb3a536adccd3cd5bd06\\input\\input_5e49c91bd1791237.md",
+    "outputFilename": "README_translated_ne.md",
+    "outputPath": "storage\\jobs\\job_01a0fb3a536adccd3cd5bd06\\output\\README_translated_ne.md",
+    "createdAt": "2026-10-02T06:08:18.7994484Z",
+    "startedAt": "2026-10-02T06:08:19.0532173Z",
+    "completedAt": "2026-10-02T06:08:19.8695937Z",
+    "result": {
+      "outputFilename": "README_translated_ne.md",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "# Aहोइनnymous Self-Hosted AI Toolbox Suite 🚀\n\nएउटा modern, production-structured AI web application powered द्वारा एउटा **नमस्तेgh-concurrency जानु backend** र एउटा **React 18 + Three.js / React Three Fiber** frontend.\n\nBuilt को लागि **100% privacy, zero user accounts, zero telemetry, र zero paid cloud AI API dependencies**.\n\n---\n\n## 🌟 Key Capabilities \u0026 उपकरण Roster\n\n| उपकरण | Pipeline Engine | Output Formats | स्थानीय Engine Support |\n|---|---|---|---|\n| **Image लाई / तिर 3D** | Moहोइनcular Depth + Isosurface Reconstruction | `.glb`, `.obj`, `.stl` | TripoSR / Shap-E / स्थानीय Geometry |\n| **Audio लाई / तिर Text** | Voice Activity Detection + Acoustic Transformer | `.txt`, `.srt`, `.vtt`, `.json` | OpenAI Wनमस्तेsper स्थानीयl CLI) / Faster-Whisper |\n| **Video लाई / तिर Text** | FFmpeg Demux + Wनमस्तेsper Subtitle Sync | `.srt`, `.vtt`, `.txt` | FFmpeg + स्थानीय Whisper |\n| **Image OCR** | Optical Character Recognition \u0026 Layout Parsing | `.txt`, `.json` | Tesseract OCR / Vision OCR |\n| **Smart Summarizer** | Semantic Context Distillation \u0026 Extraction | `.txt`, `.md` | स्थानीय Ollama (`llama3`, `mistral`) / llama.cpp |\n| **Neural Translator** | English ⇄ Nepali \u0026 Multi-Language NMT | `.txt` | स्थानीय Neural Macनमस्तेne Translation Engine |\n| **Text लाई / तिर Speech** | Harmonic Acoustic Waveform Synthesis | `.mp3`, `.wav` | स्थानीय Neural Vocoder (EN \u0026 Nepali) |\n\n---\n\n## 🏗️ प्रणाली Arcनमस्तेtecture\n\n```text\nai-toolbox/\n├── frontend/ # React 18 + TypeScript + Vite + Tailwind CSS + Three.js\n│ ├── src/\n│ │ ├── components/ # Dropzone, Viewer3D, JobProgressCard, Navbar, Sidebar, Footer\n│ │ ├── features/ # image-to-3d, audio-to-text, video-to-text, ocr, summarizer, translator, text-to-speech\n│ │ ├── hooks/ # useJobRunner (unified job lifecycle), useSystemHealth\n│ │ ├── pages/ # DashboardPage, ToolPage, SystemPage\n│ │ ├── services/ # Typed API client साथमा / ले Server-Sent Events (SSE) \u0026 polling fallback\n│ │ ├── types/ # Strict TypeScript interfaces\n│ │ └── utils/ # उपकरण definitions \u0026 configuration\n│ ├── index.html\n│ └── package.json\n│\n├── backend/ # नमस्तेgh-Performance जानु Orchestrator\n│ ├── cmd/server/main.go # सर्भर entrypoint साथमा / ले graceful shutdown \u0026 cleanup routine\n│ ├── internal/\n│ │ ├── config/ # Environment variables loader\n│ │ ├── handlers/ # REST endpoints स्वास्थ्यh, Jobs, Events, Downloads, File serving)\n│ │ ├── jobs/ # In-memory \u0026 SQLite metadata store, Concurrency Queue (Semaphore)\n│ │ ├── middleware/ # CORS, IP Rate Limiter (60 req/min), Request Limiters\n│ │ ├── storage/ # Ephemeral isolated storage (input/output/temp) \u0026 traversal guard\n│ │ └── workers/ # Specialized workers को लागि सबै 7 tools (MOCK_AI \u0026 स्थानीय Models)\n│ ├── storage/jobs/ # Ephemeral job execution directories (auto-cleaned)\n│ ├── data/ # Persistent job metadata\n│ ├── go.mod\n│ └── server.exe # Pre-compiled standalone binary\n│\n├── .env.example # Environment configuration template\n└── README.md\n```\n\n---\n\n## ⚡ Quick Start स्थानीयl Development)\n\n### 1. Prerequisites\n- **होइनde.js** (v18+ recommended) \u0026 **npm**\n- **Go** (1.22+)\n\n---\n\n### 2. Start Backend\n\n```bash\ncd backend\nजानु दौडनु ./cmd/server\n```\n*The सर्भर हुनेछ / गर्नेछ start मा / माथि `http://localhost:8080`.*\n\n---\n\n### 3. Start Frontend\n\n```bash\ncd frontend\nnpm install\nnpm दौडनु dev\n```\n*The frontend development सर्भर हुनेछ / गर्नेछ launch मा / माथि `http://localhost:5173`.*\n\n---\n\n## 🧪 Mock Mode (`MOCK_AI=true`)\n\nद्वारा default, त्यो application runs मा **Mock Mode** (`MOCK_AI=true`).\n\n- **Zero GPU वा heavy मोडल installation required.**\n- Produces **valid, playable 3D GLB models**, valid WAV audio speech, synchronized SRT subtitles, र OCR text.\n- Provides realistic multi-stage processing simulation साथमा / ले live percentage progression र stage updates streamed via Server-Sent Events (SSE).\n\n---\n\n## 🔌 Connecting Real स्थानीय AI Models (`MOCK_AI=false`)\n\nलाई / तिर switch लाई / तिर real स्थानीय execution, configure `.env` मा `backend/`:\n\n```env\nMOCK_AI=false\nFFMPEG_PATH=ffmpeg\nWनमस्तेSPER_PATH=whisper\nTESSERACT_PATH=tesseract\nOLLAMA_URL=http://localhost:11434\nMAX_CONCURRENT_JOBS=2\n```\n\n### स्थानीय Engine Dependencies:\n1. **FFmpeg \u0026 Wनमस्तेsper (Audio/Video Speech-to-Text)**:\n- Install FFmpeg र Wनमस्तेsper CLI: `pip install openai-whisper`\n2. **Tesseract (OCR)**:\n- Install Tesseract OCR: `winget install UB-Mannheim.TesseractOCR` वा `apt install tesseract-ocr`\n3. **Ollama (Summarizer)**:\n- Install Ollama बाट [ollama.ai](https://ollama.ai) र दौडनु `ollama दौडनु llama3`\n\n---\n\n## 🛡️ Security \u0026 Privacy Guarantees\n\n1. **100% Aहोइनnymous**: होइन registration, passwords, JWTs, user accounts, वा tracking cookies.\n2. **Job Isolation**: Each job हो assigned एउटा ephemeral directory (`storage/jobs/\u003cjobId\u003e/`) साथमा / ले isolated `input/`, `output/`, र `temp/` paths.\n3. **Directory Traversal Protection**: सबै filesystem accesses हुन् / छन् validated against caहोइनnical base prefixes साथमा / ले strict boundary checks.\n4. **Automatic 24h Purge**: एउटा background cleaner automatically destroys job files र metadata older than `JOB_RETENTION_HOURS=24`.\n5. **Worker Concurrency Limit**: गाह्रो worker limits (`MAX_CONCURRENT_JOBS=2`) prevent CPU/GPU exhaustion.\n6. **Rate Limiting**: Automatic IP rate limiter prevents resource abuse.\n\n---\n\n## 📡 REST API Reference\n\n| Method | Endpoint | Description |\n|---|---|---|\n| `GET` | `/api/health` | प्रणाली स्वास्थ्य, version, mock mode status, र active slots |\n| `POST` | `/api/jobs` | सिर्जना गर्नु एउटा job (multipart form साथमा / ले `tool`, `file`, `configuration`, `textInput`) |\n| `GET` | `/api/jobs/:id` | Fetch job status, progress, stage, र metadata |\n| `GET` | `/api/jobs/:id/events` | Stream live Server-Sent Events (SSE) |\n| `GET` | `/api/jobs/:id/result` | Retrieve structured JSON result |\n| `GET` | `/api/jobs/:id/download` | Download generated file artifact साथमा / ले `Content-Disposition` |\n| `GET` | `/api/jobs/:id/file` | Serve raw file inline को लागि Three.js viewer वा audio player |\n| `POST` | `/api/jobs/:id/cancel` | Cancel एउटा active वा queued job |\n| `DELETE` | `/api/jobs/:id` | Delete job metadata र associated files |\n\n---\n\n## 🧪 Testing \u0026 Verification\n\n### Backend Tests:\n```bash\ncd backend\nजानु test -v ./...\nजानु vet ./...\n```\n\n### Frontend निर्माण गर्नु \u0026 Lint:\n```bash\ncd frontend\nnpm दौडनु निर्माण गर्नु\nnpx tsc --होइनEmit\n```",
+      "wordCount": 938
+    }
+  },
+  "job_01a0fb4ea1d9ea69109d0103": {
+    "jobId": "job_01a0fb4ea1d9ea69109d0103",
+    "tool": "image-to-3d",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "futsal.jpg",
+    "inputPath": "storage\\jobs\\job_01a0fb4ea1d9ea69109d0103\\input\\input_75d6cb24f531e78f.jpg",
+    "outputFilename": "model_generated.glb",
+    "outputPath": "storage\\jobs\\job_01a0fb4ea1d9ea69109d0103\\output\\model_generated.glb",
+    "createdAt": "2026-10-02T06:30:29.6369087Z",
+    "startedAt": "2026-10-02T06:30:29.9944303Z",
+    "completedAt": "2026-10-02T06:30:31.8582554Z",
+    "config": {
+      "geometryDetail": "medium",
+      "outputFormat": "glb",
+      "quality": "balanced",
+      "removeBackground": true,
+      "texture": true
+    },
+    "result": {
+      "fileSizeBytes": 6460,
+      "format": "glb",
+      "outputFilename": "model_generated.glb",
+      "sourceImage": "futsal",
+      "textureMap": true,
+      "vertexCount": 538
+    }
+  },
+  "job_01a0fb4edc07d92003851074": {
+    "jobId": "job_01a0fb4edc07d92003851074",
+    "tool": "image-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "337724780_1932795667055122_8509589954124346746_n.jpg",
+    "inputPath": "storage\\jobs\\job_01a0fb4edc07d92003851074\\input\\input_404995e1b02876c1.jpg",
+    "outputFilename": "extracted_text.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb4edc07d92003851074\\output\\extracted_text.txt",
+    "createdAt": "2026-10-02T06:30:44.4948072Z",
+    "startedAt": "2026-10-02T06:30:44.7958532Z",
+    "completedAt": "2026-10-02T06:30:45.8549056Z",
+    "config": {
+      "enhanceContrast": true,
+      "language": "auto",
+      "preserveLayout": true
+    },
+    "result": {
+      "confidence": 0.994,
+      "language": "en",
+      "outputFilename": "extracted_text.txt",
+      "text": "EXTRACTED DOCUMENT OCR CONTENT\n=========================================================\nSOURCE FILE : 337724780_1932795667055122_8509589954124346746_n.jpg\nPARSED TIME : Fri, 02 Oct 2026 06:30:45 UTC\nRECOGNITION : Neural Vision OCR (Local Engine)\nCONFIDENCE  : 99.4%\n\nSECTION 1: DOCUMENT HEADER\n---------------------------------------------------------\nThe input document \"337724780_1932795667055122_8509589954124346746_n.jpg\" has been parsed with character segmentation and layout boundaries preserved.\n\nSECTION 2: EXTRACTED BODY TEXT\n• Execution Mode: 100% Offline On-Premise Processing\n• Data Telemetry: Disabled (Zero third-party logging)\n• File Format: High-Resolution Optical Character Scan\n\nSECTION 3: KEYWORDS DETECTED\n[Security, Localhost, Private, Autonomous, OCR, Engine]",
+      "wordCount": 83
+    }
+  },
+  "job_01a0fb4f1a0bf7c3715104d4": {
+    "jobId": "job_01a0fb4f1a0bf7c3715104d4",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "IDI_Hotel Owner_Ratnanagar 02.mp3",
+    "inputPath": "storage\\jobs\\job_01a0fb4f1a0bf7c3715104d4\\input\\input_a1746ae19b166f03.mp3",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb4f1a0bf7c3715104d4\\output\\transcript.txt",
+    "createdAt": "2026-10-02T06:31:00.4709061Z",
+    "startedAt": "2026-10-02T06:31:00.7729363Z",
+    "completedAt": "2026-10-02T06:31:01.9284989Z",
+    "config": {
+      "diarization": false,
+      "language": "auto",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:01 - 00:05] Acoustic stream parsed for audio track \"IDI Hotel Owner Ratnanagar 02\".\n[00:05 - 00:09] Speech segments detected with clear vocal clarity and balanced acoustic frequency.\n[00:10 - 00:14] Locally parsed transcript synchronized with zero telemetry or cloud transmission.\n[00:14 - 00:18] All linguistic tokens, timestamps, and phonetic boundaries verified successfully.",
+      "wordCount": 53
+    }
+  },
+  "job_01a0fb4fac95ac041867d5eb": {
+    "jobId": "job_01a0fb4fac95ac041867d5eb",
+    "tool": "summarizer",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "summary.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb4fac95ac041867d5eb\\output\\summary.txt",
+    "createdAt": "2026-10-02T06:31:37.8770322Z",
+    "startedAt": "2026-10-02T06:31:38.1774589Z",
+    "completedAt": "2026-10-02T06:31:39.1444557Z",
+    "config": {
+      "format": "bullet_points",
+      "length": "medium",
+      "textInput": "The Anonymous Self-Hosted AI Toolbox represents a breakthrough in private artificial intelligence deployment. Unlike conventional cloud-based services that transmit confidential audio, imagery, and text documents across third-party remote datacenters, this suite operates entirely on local hardware infrastructure.\r\n\r\nKey architectural highlights include a high-concurrency Go orchestration engine featuring Semaphore-governed worker pools, streaming Server-Sent Events (SSE), and a 24-hour ephemeral file purging system. The frontend leverages React 18, Vite, Three.js WebGL 2.0 visualization, and modern glassmorphic responsive interface components. Complete zero-telemetry guarantees ensure compliance with strict privacy requirements."
+    },
+    "result": {
+      "compressionRatio": "43.0%",
+      "format": "bullet_points",
+      "length": "medium",
+      "originalWordCount": 86,
+      "outputFilename": "summary.txt",
+      "summary": "• The Anonymous Self-Hosted AI Toolbox represents a breakthrough in private artificial intelligence deployment\n• Unlike conventional cloud-based services that transmit confidential audio, imagery, and text documents across third-party remote datacenters, this suite operates entirely on local hardware infrastructure\n• Complete zero-telemetry guarantees ensure compliance with strict privacy requirements",
+      "summaryWordCount": 49
+    }
+  },
+  "job_01a0fb4fda6f4b4f2d3b0751": {
+    "jobId": "job_01a0fb4fda6f4b4f2d3b0751",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "translation_en_to_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb4fda6f4b4f2d3b0751\\output\\translation_en_to_ne.txt",
+    "createdAt": "2026-10-02T06:31:49.6153132Z",
+    "startedAt": "2026-10-02T06:31:49.8670114Z",
+    "completedAt": "2026-10-02T06:31:50.6784814Z",
+    "config": {
+      "formality": "default",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "textInput": "Welcome to the Anonymous Self-Hosted AI Toolbox. Everything runs locally on your machine."
+    },
+    "result": {
+      "outputFilename": "translation_en_to_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "स्वागत छ त्यो Aहोइनnymous Self-Hosted AI Toolbox. Everytनमस्तेng runs locally मा / माथि तपाईंको machine.",
+      "wordCount": 15
+    }
+  },
+  "job_01a0fb50221fefa9b66bb522": {
+    "jobId": "job_01a0fb50221fefa9b66bb522",
+    "tool": "translator",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "React Components.txt",
+    "inputPath": "storage\\jobs\\job_01a0fb50221fefa9b66bb522\\input\\input_4f59bf969187d1d1.txt",
+    "outputFilename": "React Components_translated_ne.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb50221fefa9b66bb522\\output\\React Components_translated_ne.txt",
+    "createdAt": "2026-10-02T06:32:07.982794Z",
+    "startedAt": "2026-10-02T06:32:08.4885247Z",
+    "completedAt": "2026-10-02T06:32:09.298527Z",
+    "config": {
+      "formality": "default",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne"
+    },
+    "result": {
+      "outputFilename": "React Components_translated_ne.txt",
+      "sourceLanguage": "en",
+      "targetLanguage": "ne",
+      "translatedText": "--------------------------Components मा React Native-----------------------------\n\n1. Basic UI Components\nView\n\nत्यो fundamental container component.\n\nSimilar लाई / तिर एउटा \u003cdiv\u003e मा web.\n\nUsed को लागि layout, boxes, sections.\n\nText\n\nDisplays text मा / माथि screen.\n\nSupports styling, nesting, र touch handling.\n\nImage\n\nShows images स्थानीयl वा online).\n\nSupports resizing, cacनमस्तेng, etc.\n\nTextInput\n\nInput field को लागि typing.\n\nसक्नु हुनु used को लागि forms, login pages, searches, etc.\n\nScrollView\n\nScrollable container.\n\nराम्रो को लागि small/medium scrollable content.\n\nAvoid को लागि huge lists प्रयोग गर्नुe FlatList instead).\n\nPressable\n\nBest को लागि clickable elements.\n\nProvides feedback मा / माथि press.\n\nTouchableOpacity\n\nMakes यसको cनमस्तेldren tappable.\n\nFades opacity कहिले pressed.\n\nTouchableWithoutFeedback\n\nDetects touch बिना visual feedback.\n\nTouchableनमस्तेghlight\n\nShows एउटा नमस्तेghlight कहिले pressed.\n\n✅ 2. List Components\n\nFlatList\n\nRenders long lists efficiently.\n\nSupports lazy-loading र performance optimizations.\n\nSectionList\n\nमन पराउनु FlatList तर grouped into sections.\n\nराम्रो को लागि contacts list, grouped items.\n\n✅ 3. Image / Media Components\n\nImageBackground\n\nDisplays एउटा image as एउटा background wrapper.\n\nActivityIndicator\n\nLoading spinner.\n\n✅ 4. Layout Components\n\nSafeAreaView\n\nAvoids होइनtches, status bars, र rounded corners.\n\nKeeps UI inside safe display areas.\n\nKeyboardAvoidingView\n\nMoves UI above keyboard automatically.\n\nUseful को लागि login वा form screens.\n\n✅ 5. Platform-Specific Components\n\nStatusBar\n\nControls status bar color, visibility, style.\n\nModal\n\nOverlays content above everytनमस्तेng.\n\nUsed को लागि popups, dialogs, bottom sheets.\n\nRefreshControl\n\nPull-to-refresh को लागि ScrollView वा FlatList.\n\n✅ 6. Gesture \u0026 Animation Components\n\nAnimated.View, Animated.Text, etc.\n\nComponents used को लागि animations.\n\nPanResponder\n\nLow-level gesture प्रणाली.\n\nLets तपाईं detect drag, swipes, etc.\n\n✅ 7. Utility Components\n\nSwitch\n\nToggle button on/off.\n\nActivityIndicator\n\nSpinner (loading).\n\nProgressBar (Android only)\n\nShows progress.\n\nPicker (deprecated)\n\nप्रयोग गर्नु libraries मन पराउनु @react-native-picker instead.\n\n✅ 8. Web/Platform Linking\n\nLinking\n\nOpen links (tel, mail, browser).\n\nहोइनt exactly एउटा component तर एउटा core API.\n\n✅ 9. Navigation Components (होइनt built-in, बाट libraries)\n\nबाट React Navigation:\n\nNavigationContainer\n\nStack.Navigator, Stack.Screen\n\nTab.Navigator, Tab.Screen\n\nDrawer.Navigator, Drawer.Screen\n\n(React Native गर्छ होइनt include navigation द्वारा default.)\n\n✅ 10. Expo-Specific Components यदिf प्रयोग गर्दै Expo)\n\nexpo-image\n\nexpo-av को लागिr audio/video)\n\nexpo-linear-gradient\n\nexpo-checkbox\n\nexpo-blur\n\nexpo-camera\n\n📌 Summary Table को React Native Components\nCategory Component Names\nBasic View, Text, Image, TextInput, ScrollView, Pressable, TouchableOpacity\nLists FlatList, SectionList\nMedia ImageBackground, ActivityIndicator\nLayout SafeAreaView, KeyboardAvoidingView\nPlatform UI StatusBar, Modal, RefreshControl\nGestures Animated.*, PanResponder\nUtilities Switch\nNavigation बाट React Navigation library\nExpo Components LinearGradient, Camera, AV, etc.",
+      "wordCount": 382
+    }
+  },
+  "job_01a0fb505c2eabbc1b2690d6": {
+    "jobId": "job_01a0fb505c2eabbc1b2690d6",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_en.wav",
+    "outputPath": "storage\\jobs\\job_01a0fb505c2eabbc1b2690d6\\output\\speech_en.wav",
+    "createdAt": "2026-10-02T06:32:22.8305558Z",
+    "startedAt": "2026-10-02T06:32:23.1322137Z",
+    "completedAt": "2026-10-02T06:32:24.3885485Z",
+    "config": {
+      "language": "en",
+      "outputFormat": "wav",
+      "pitch": 1,
+      "speed": 1,
+      "textInput": "Welcome to the Anonymous Self-Hosted AI Toolbox. All voice audio is generated on-premise.",
+      "voice": "natural_female"
+    },
+    "result": {
+      "durationSec": 5.9,
+      "language": "en",
+      "outputFilename": "speech_en.wav",
+      "outputFormat": "wav",
+      "speed": 1,
+      "textLength": 89,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0fb508cc5c899ecc4646f": {
+    "jobId": "job_01a0fb508cc5c899ecc4646f",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_en.wav",
+    "outputPath": "storage\\jobs\\job_01a0fb508cc5c899ecc4646f\\output\\speech_en.wav",
+    "createdAt": "2026-10-02T06:32:35.2698163Z",
+    "startedAt": "2026-10-02T06:32:35.570682Z",
+    "completedAt": "2026-10-02T06:32:36.8519865Z",
+    "config": {
+      "language": "en",
+      "outputFormat": "mp3",
+      "pitch": 1,
+      "speed": 1,
+      "textInput": "Welcome to the Anonymous Self-Hosted AI Toolbox. All voice audio is generated on-premise.",
+      "voice": "natural_female"
+    },
+    "result": {
+      "durationSec": 5.9,
+      "language": "en",
+      "outputFilename": "speech_en.wav",
+      "outputFormat": "wav",
+      "speed": 1,
+      "textLength": 89,
+      "voice": "natural_female"
+    }
+  },
+  "job_01a0fb510d857f794c61b6e5": {
+    "jobId": "job_01a0fb510d857f794c61b6e5",
+    "tool": "text-to-speech",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "outputFilename": "speech_ne.wav",
+    "outputPath": "storage\\jobs\\job_01a0fb510d857f794c61b6e5\\output\\speech_ne.wav",
+    "createdAt": "2026-10-02T06:33:08.2294164Z",
+    "startedAt": "2026-10-02T06:33:08.5300975Z",
+    "completedAt": "2026-10-02T06:33:09.8151275Z",
+    "config": {
+      "language": "ne",
+      "outputFormat": "mp3",
+      "pitch": 1,
+      "speed": 1,
+      "textInput": "यस प्रणालीमा कुनै पनि बाह्य क्लाउड शुल्क वा ट्र्याकिङ बिना आवाज संश्लेषण गर्न सकिन्छ।",
+      "voice": "natural_male"
+    },
+    "result": {
+      "durationSec": 6.3,
+      "language": "ne",
+      "outputFilename": "speech_ne.wav",
+      "outputFormat": "wav",
+      "speed": 1,
+      "textLength": 229,
+      "voice": "natural_male"
+    }
+  },
+  "job_01a0fb57333874d4318a9755": {
+    "jobId": "job_01a0fb57333874d4318a9755",
+    "tool": "audio-to-text",
+    "status": "completed",
+    "progress": 100,
+    "stage": "Processing completed successfully",
+    "inputFilename": "sample_speech_recording.wav",
+    "inputPath": "storage\\jobs\\job_01a0fb57333874d4318a9755\\input\\input_ff989daeaf0eede8.wav",
+    "outputFilename": "transcript.txt",
+    "outputPath": "storage\\jobs\\job_01a0fb57333874d4318a9755\\output\\transcript.txt",
+    "createdAt": "2026-10-02T06:39:51.1037625Z",
+    "startedAt": "2026-10-02T06:39:51.4100093Z",
+    "completedAt": "2026-10-02T06:39:52.5686623Z",
+    "config": {
+      "diarization": false,
+      "language": "auto",
+      "outputFormat": "txt",
+      "timestamps": true
+    },
+    "result": {
+      "language": "en",
+      "outputFilename": "transcript.txt",
+      "outputFormat": "txt",
+      "transcript": "[00:01 - 00:05] Acoustic stream parsed for audio track \"sample speech recording\".\n[00:05 - 00:09] Speech segments detected with clear vocal clarity and balanced acoustic frequency.\n[00:10 - 00:14] Locally parsed transcript synchronized with zero telemetry or cloud transmission.\n[00:14 - 00:18] All linguistic tokens, timestamps, and phonetic boundaries verified successfully.",
+      "wordCount": 51
+    }
+  }
+}

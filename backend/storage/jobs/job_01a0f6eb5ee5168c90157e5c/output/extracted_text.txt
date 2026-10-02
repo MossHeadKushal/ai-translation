@@ -1,0 +1,13 @@
+SYSTEM ARCHITECTURE & OCR SCAN REPORT
+---------------------------------------------------------
+1. EXECUTIVE SUMMARY:
+The Anonymous Self-Hosted AI Toolbox provides complete privacy-preserving artificial intelligence capabilities running entirely on edge or local infrastructure.
+
+2. KEY SPECIFICATIONS DETECTED:
+• Framework: High-Concurrency Go Microservice
+• Frontend: React 18 / Vite / Three.js 3D Viewport
+• Zero Cloud Telemetry & 24h Auto-Purge Policy
+• Full offline OCR text layout preservation
+
+3. VALIDATION STATUS:
+Document text extracted with 99.4% confidence score across all columns.

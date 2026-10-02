@@ -1,0 +1,88 @@
+@import "tailwindcss";
+@config "../tailwind.config.js";
+
+@layer base {
+  :root {
+    --primary-bg: #030917;
+    --panel-bg: rgba(7, 24, 65, 0.7);
+    --panel-border: rgba(66, 135, 243, 0.2);
+    --accent-cyan: #00F0FF;
+    --accent-blue: #0099FF;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    background: radial-gradient(circle at 50% 0%, #0B296B 0%, #071841 35%, #030917 100%);
+    background-attachment: fixed;
+    color: #f1f5f9;
+    font-family: 'Google Sans', 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+}
+
+/* Glassmorphism utility classes */
+.glass-panel {
+  background: rgba(7, 24, 65, 0.65);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(66, 135, 243, 0.2);
+}
+
+.glass-panel-hover {
+  transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.glass-panel-hover:hover {
+  background: rgba(11, 41, 107, 0.8);
+  border-color: rgba(0, 240, 255, 0.4);
+  box-shadow: 0 12px 40px -10px rgba(0, 240, 255, 0.15);
+  transform: translateY(-2px);
+}
+
+.glass-card {
+  background: rgba(11, 59, 96, 0.4);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.glow-border-cyan {
+  border-color: rgba(0, 240, 255, 0.5);
+  box-shadow: 0 0 20px -3px rgba(0, 240, 255, 0.3);
+}
+
+.glow-border-blue {
+  border-color: rgba(0, 153, 255, 0.5);
+  box-shadow: 0 0 20px -3px rgba(0, 153, 255, 0.35);
+}
+
+/* Custom modern scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #030917;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #0B3B60;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #1b64df;
+}
+
+/* Animated subtle mesh grid background */
+.bg-grid-pattern {
+  background-size: 40px 40px;
+  background-image: 
+    linear-gradient(to right, rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+}

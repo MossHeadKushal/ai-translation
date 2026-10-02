@@ -1,0 +1,189 @@
+--------------------------Components in React Native-----------------------------
+
+1. Basic UI Components
+View
+
+The fundamental container component.
+
+Similar to a <div> in web.
+
+Used for layout, boxes, sections.
+
+Text
+
+Displays text on screen.
+
+Supports styling, nesting, and touch handling.
+
+Image
+
+Shows images (local or online).
+
+Supports resizing, caching, etc.
+
+TextInput
+
+Input field for typing.
+
+Can be used for forms, login pages, searches, etc.
+
+ScrollView
+
+Scrollable container.
+
+Good for small/medium scrollable content.
+
+Avoid for huge lists (use FlatList instead).
+
+Pressable
+
+Best for clickable elements.
+
+Provides feedback on press.
+
+TouchableOpacity
+
+Makes its children tappable.
+
+Fades opacity when pressed.
+
+TouchableWithoutFeedback
+
+Detects touch without visual feedback.
+
+TouchableHighlight
+
+Shows a highlight when pressed.
+
+✅ 2. List Components
+
+FlatList
+
+Renders long lists efficiently.
+
+Supports lazy-loading and performance optimizations.
+
+SectionList
+
+Like FlatList but grouped into sections.
+
+Good for contacts list, grouped items.
+
+✅ 3. Image / Media Components
+
+ImageBackground
+
+Displays an image as a background wrapper.
+
+ActivityIndicator
+
+Loading spinner.
+
+✅ 4. Layout Components
+
+SafeAreaView
+
+Avoids notches, status bars, and rounded corners.
+
+Keeps UI inside safe display areas.
+
+KeyboardAvoidingView
+
+Moves UI above keyboard automatically.
+
+Useful for login or form screens.
+
+✅ 5. Platform-Specific Components
+
+StatusBar
+
+Controls status bar color, visibility, style.
+
+Modal
+
+Overlays content above everything.
+
+Used for popups, dialogs, bottom sheets.
+
+RefreshControl
+
+Pull-to-refresh for ScrollView or FlatList.
+
+✅ 6. Gesture & Animation Components
+
+Animated.View, Animated.Text, etc.
+
+Components used for animations.
+
+PanResponder
+
+Low-level gesture system.
+
+Lets you detect drag, swipes, etc.
+
+✅ 7. Utility Components
+
+Switch
+
+Toggle button on/off.
+
+ActivityIndicator
+
+Spinner (loading).
+
+ProgressBar (Android only)
+
+Shows progress.
+
+Picker (deprecated)
+
+Use libraries like @react-native-picker instead.
+
+✅ 8. Web/Platform Linking
+
+Linking
+
+Open links (tel, mail, browser).
+
+Not exactly a component but a core API.
+
+✅ 9. Navigation Components (Not built-in, from libraries)
+
+From React Navigation:
+
+NavigationContainer
+
+Stack.Navigator, Stack.Screen
+
+Tab.Navigator, Tab.Screen
+
+Drawer.Navigator, Drawer.Screen
+
+(React Native does not include navigation by default.)
+
+✅ 10. Expo-Specific Components (if using Expo)
+
+expo-image
+
+expo-av (for audio/video)
+
+expo-linear-gradient
+
+expo-checkbox
+
+expo-blur
+
+expo-camera
+
+📌 Summary Table of React Native Components
+Category	Component Names
+Basic	View, Text, Image, TextInput, ScrollView, Pressable, TouchableOpacity
+Lists	FlatList, SectionList
+Media	ImageBackground, ActivityIndicator
+Layout	SafeAreaView, KeyboardAvoidingView
+Platform UI	StatusBar, Modal, RefreshControl
+Gestures	Animated.*, PanResponder
+Utilities	Switch
+Navigation	From React Navigation library
+Expo Components	LinearGradient, Camera, AV, etc.
+
